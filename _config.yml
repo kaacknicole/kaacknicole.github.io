@@ -30,14 +30,13 @@ markdown: kramdown
 highlighter: pygments
 
 # Includes & excludes
-include: projects.md
+include: ['_pages']
 exclude: [vendor]
 
 # Plug-ins
 plugins:
     - jekyll-email-protect
     - jekyll-paginate
-
 
 
 
