@@ -4,9 +4,16 @@ permalink: /projects/
 title: projects
 ---
 
-<h1>Projects</h1>
-<br />
-<h2>Curatorial</h2>
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Projects</h1>
+  </header>
+
+  <article class="post-content {{page.title}} clearfix">
+
+
+<h3>Curatorial</h2>
 <br />
 <p><a href="http://www.crush-curatorial.com/science-fictions" target="_blank" rel="noopener">Science Fictions</a><br>
 CRUSHCURATORIAL, New York, NY<br>
@@ -33,8 +40,8 @@ Small Editions, Brooklyn, NY<br>
 Max Fowler and Rachel Haberstroh, Sujin Lee, Nyeema Morgan<br>
 with a performance by Benjamin Santiago<br>
 July 29 – September 10, 2017</p>
-<p>&nbsp;</p>
-<p>GROUP EXHIBITIONS<br>
+<br />
+<h4>GROUP EXHIBITIONS</h4>
 <a href="https://arthistory.barnard.edu/events/residues" target="_blank" rel="noopener">residues</a><br>
 Curated by Mira Dayal<br>
 Louise McCagg Gallery, Barnard College, New York, NY<br>
@@ -45,8 +52,7 @@ LeRoy Neiman Gallery, Columbia University, New York, NY<br>
 May 3-6, 2016</p>
 <br />
 <h2>PUBLICATION</h2>
-<a href="https://ofmissingout.wordpress.com/" target="_blank" rel="noopener">Of Missing Out</a>, Fall 2017 – ongoing<br>
-<a href="http://cargocollective.com/promptcolon">prompt:</a>, Spring 2018 – ongoing</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-			</div>
+<p><a href="https://ofmissingout.wordpress.com/" target="_blank" rel="noopener">Of Missing Out</a>, Fall 2017 – ongoing</p>
+<p><a href="http://cargocollective.com/promptcolon">prompt:</a>, Spring 2018 – ongoing</p>
+
+  </article>
