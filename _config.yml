@@ -5,8 +5,6 @@ name: Nicole Kaack
 email: kaacknicole@gmail.com
 description: > # this means to ignore newlines until "url:"
 footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-
 url:  kaacknicole.github.io
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
@@ -16,10 +14,10 @@ last_updated: # leave blank if you don't want to display last updated
 # Collections
 # -----------------------------------------------------------------------------
 collections:
-  writing:
+  Writing:
     output: true
     permalink: /writing/:path/
-  projects:
+  Projects:
     output: true
     permalink: /projects/:path/
 
