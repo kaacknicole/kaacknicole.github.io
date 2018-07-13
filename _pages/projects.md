@@ -2,14 +2,9 @@
 layout: page
 permalink: /projects/
 title: Projects
-description: Curatorial and exhibitions.
 ---
 
 <div class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">Projects</h1>
-  </header>
 
   <article class="projects">
 <h3>Curatorial</h3>
@@ -40,7 +35,7 @@ Max Fowler and Rachel Haberstroh, Sujin Lee, Nyeema Morgan<br>
 with a performance by Benjamin Santiago<br>
 July 29 – September 10, 2017</p>
 <br />
-<h4>GROUP EXHIBITIONS</h4>
+<h4>Group Exhibitions</h4>
 <a href="https://arthistory.barnard.edu/events/residues" target="_blank" rel="noopener">residues</a><br>
 Curated by Mira Dayal<br>
 Louise McCagg Gallery, Barnard College, New York, NY<br>
@@ -50,8 +45,8 @@ Curated by Emily Henretta and Nicola Lopez<br>
 LeRoy Neiman Gallery, Columbia University, New York, NY<br>
 May 3-6, 2016</p>
 <br />
-<h2>PUBLICATION</h2>
+<h3>Publications</h3>
 <p><a href="https://ofmissingout.wordpress.com/" target="_blank" rel="noopener">Of Missing Out</a>, Fall 2017 – ongoing</p>
-<p><a href="http://cargocollective.com/promptcolon">prompt:</a>, Spring 2018 – ongoing</p>
+<p><a href="http://cargocollective.com/promptcolon" target="_blank">prompt:</a>, Spring 2018 – ongoing</p>
 
   </article></div>
