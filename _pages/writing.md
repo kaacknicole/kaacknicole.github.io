@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /writing/
 title: Writing
 ---
@@ -57,4 +57,4 @@ Also published in<i>&nbsp;I will set a stage for you</i>, eds. Ana Iwataki and M
 <p><a href="http://www.artcritical.com/2016/04/23/nicole-kaack-on-samara-golden/" target="_blank" rel="noopener">Little Boxes: Samara Golden at Yerba Buena</a>, artcritical, April 2016</p>
 <p><a href="http://www.artcritical.com/2016/04/16/nicole-kaack-on-andrea-fraser/" target="_blank" rel="noopener">Unbridgeable Gap: Andrea Fraser Brings Sing Sing to the Whitney</a>, artcritical, April 2016</p>
 
-  </article>
+  </article></div>
