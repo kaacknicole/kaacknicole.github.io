@@ -2,6 +2,7 @@
 layout: default
 permalink: /writing/
 title: Writing
+description:
 ---
 
 <div class="post">
