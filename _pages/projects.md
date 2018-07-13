@@ -3,10 +3,7 @@ layout: page
 permalink: /projects/
 title: Projects
 ---
-
-<div class="post">
-
-  <article class="projects">
+<div class="post"><article class="projects">
 <h3>Curatorial</h3>
 <br />
 <p><a href="http://www.crush-curatorial.com/science-fictions" target="_blank" rel="noopener">Science Fictions</a><br>
