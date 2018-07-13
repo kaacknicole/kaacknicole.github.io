@@ -6,9 +6,6 @@ profile:
   align: right
   image: "dock.jpg"
   address:
-
-news: false
-social: false
 ---
 
 <img src="dock.jpg">
