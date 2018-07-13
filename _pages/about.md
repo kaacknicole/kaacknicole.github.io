@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: Nicole <strong>Kaack</strong> 
+title: Nicole Kaack 
 profile:
   align: right
   image: "dock.jpg"
