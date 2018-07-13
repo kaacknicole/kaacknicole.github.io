@@ -4,8 +4,14 @@ permalink: /writing/
 title: writing
 ---
 
-<h1>Writing</h1>
-<div class="entry-content">
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Writing</h1>
+  </header>
+
+  <article class="post-content {{page.title}} clearfix">
+
 <p><a href="https://www.artforum.com/picks/several-years-have-passed-74968" target="_blank" rel="noopener">“Several Years Have Passed,”</a> Artforum, April 2018</p>
 <p><a href="https://www.artforum.com/picks/deana-lawson-74623" target="_blank" rel="noopener">Deana Lawson</a>, Artforum, March 2018</p>
 <p><a href="http://www.smalleditionsnyc.com/publications/wordless/">Wordless</a>,&nbsp;exhibition catalog, Small Editions, November 2017</p>
@@ -50,4 +56,5 @@ Also published in<i>&nbsp;I will set a stage for you</i>, eds. Ana Iwataki and M
 <p><a href="https://whitehotmagazine.com/articles/chorus-ed-atkins-at-kitchen/3404" target="_blank" rel="noopener">The Disembodied Chorus: Ed Atkins at The Kitchen</a>, Whitehot Magazine, April 2016</p>
 <p><a href="http://www.artcritical.com/2016/04/23/nicole-kaack-on-samara-golden/" target="_blank" rel="noopener">Little Boxes: Samara Golden at Yerba Buena</a>, artcritical, April 2016</p>
 <p><a href="http://www.artcritical.com/2016/04/16/nicole-kaack-on-andrea-fraser/" target="_blank" rel="noopener">Unbridgeable Gap: Andrea Fraser Brings Sing Sing to the Whitney</a>, artcritical, April 2016</p>
-			</div>
+
+  </article>
