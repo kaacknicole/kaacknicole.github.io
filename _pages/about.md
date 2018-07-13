@@ -1,23 +1,11 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
-
+title: <strong>Nicole Kaack</strong> 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true
-social: true
+  image: dock.jpg
 ---
+<p>Nicole Kaack is an independent curator and writer from Northern California, currently based in Queens, New York. She works as the Dedalus Fellow in the museum archives at The Museum of Modern Art, New York, where she has assisted with archival displays for MoMA’s upcoming 2019 reinstallation as well as for Being Modern at the Fondation Louis Vuitton, Paris. Kaack will be the 2018-2019 Curatorial Fellow at The Kitchen, New York, where she will coordinate programming of the Language Art Body discussion series, as well as acting as artist liaison for the annual art auction.</p>
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<p>Kaack’s writing has been published by Whitehot Magazine, artcritical, Art Viewer, SFAQ / NYAQ / AQ, and Artforum. Organized exhibitions include Science Fictions at CRUSHCURATORIAL, New York (2018), Re:Framed at the Re: Art Show, Brooklyn (2018), Wordless at Small Editions, Brooklyn (2017), Enveloped at Small Editions, Brooklyn (2017), and Paperless at Small Editions, Brooklyn (2017). Kaack is the co-coordinator and moderator of a series of artist conversations at CRUSHCURATORIAL, New York, co-founder of the newsletter of <i>missing out</i>, and co-director of the artist publication <i>prompt:</i>. She received her BA in art history and visual art from Columbia University in May 2016 and in Fall 2018 will begin Hunter College’s masters program in art history.</p>
