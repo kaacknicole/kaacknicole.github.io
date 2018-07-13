@@ -16,10 +16,10 @@ last_updated: # leave blank if you don't want to display last updated
 collections:
   Writing:
     output: true
-    permalink: /writing/:path/
+    permalink: /writing/
   Projects:
     output: true
-    permalink: /projects/:path/
+    permalink: /projects/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -30,7 +30,7 @@ markdown: kramdown
 highlighter: pygments
 
 # Includes & excludes
-include: ['_pages']
+include: projects.md
 exclude: [vendor]
 
 # Plug-ins
