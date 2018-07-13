@@ -53,4 +53,4 @@ May 3-6, 2016</p>
 <p><a href="https://ofmissingout.wordpress.com/" target="_blank" rel="noopener">Of Missing Out</a>, Fall 2017 – ongoing</p>
 <p><a href="http://cargocollective.com/promptcolon">prompt:</a>, Spring 2018 – ongoing</p>
 
-  </article>
+  </article></div>
