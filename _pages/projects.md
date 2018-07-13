@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /projects/
-title: projects
+title: Projects
 ---
 
 <div class="post">
@@ -10,9 +10,7 @@ title: projects
     <h1 class="post-title">Projects</h1>
   </header>
 
-  <article class="post-content {{page.title}} clearfix">
-
-
+  <article class="projects">
 <h3>Curatorial</h2>
 <br />
 <p><a href="http://www.crush-curatorial.com/science-fictions" target="_blank" rel="noopener">Science Fictions</a><br>
