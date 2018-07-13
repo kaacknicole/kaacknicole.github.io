@@ -12,7 +12,7 @@ title: Writing
 <p><a href="https://www.artforum.com/picks/deana-lawson-74623" target="_blank" rel="noopener">Deana Lawson</a>, Artforum, March 2018</p>
 <p><a href="http://www.smalleditionsnyc.com/publications/wordless/">Wordless</a>,&nbsp;exhibition catalog, Small Editions, November 2017</p>
 <p><a href="http://artviewer.org/screen-wild-coast-wild-coast-by-boru-obrien-oconnell/" target="_blank" rel="noopener">I can be a brushstroke</a>, Art Viewer, November 2017<br>
-<blockquote>Also published in<i>&nbsp;I will set a stage for you</i>, eds. Ana Iwataki and Marion Vasseur Raluy (Paris: Holoholo, April 2018).</blockquote></p>
+<small>Also published in<i>&nbsp;I will set a stage for you</i>, eds. Ana Iwataki and Marion Vasseur Raluy (Paris: Holoholo, April 2018).</small></p>
 <p><a href="http://www.smalleditionsnyc.com/publications/enveloped/">Enveloped</a>, exhibition catalog, Small Editions, September 2017</p>
 <p><a href="http://www.smalleditionsnyc.com/publications/paperless/">Paperless</a>, exhibition catalog, Small Editions, August 2017</p>
 <p><a href="https://www.artforum.com/picks/id=69917" target="_blank" rel="noopener">Sable Elyse Smith</a>, Artforum, July 2017</p>
