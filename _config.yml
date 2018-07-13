@@ -16,16 +16,12 @@ last_updated: # leave blank if you don't want to display last updated
 # Collections
 # -----------------------------------------------------------------------------
 collections:
-  news:
-    defaults:
-      layout: post
+  writing:
     output: true
-    permalink: /news/:path/
+    permalink: /writing/:path/
   projects:
     output: true
     permalink: /projects/:path/
-
-news_limit: 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
