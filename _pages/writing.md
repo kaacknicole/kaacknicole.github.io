@@ -4,6 +4,7 @@ permalink: /writing/
 title: Writing
 description:
 ---
+<h1>Writing</h1>
 
 <div class="post">
 
