@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <p><a href="projects.html">Projects</a></p>
 <p><a href="writing.html">Writing</a></p>
 <br />
