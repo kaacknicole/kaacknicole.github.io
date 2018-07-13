@@ -2,6 +2,7 @@
 layout: page
 permalink: /projects/
 title: Projects
+description: Curatorial and exhibitions.
 ---
 
 <div class="post">
