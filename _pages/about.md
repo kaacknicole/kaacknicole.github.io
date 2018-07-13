@@ -4,13 +4,13 @@ permalink: /
 title: <strong>Nicole Kaack</strong> 
 profile:
   align: right
-  image: dock.jpg
+  image: "dock.jpg"
   address:
 
 news: false
 social: false
 ---
-<img src="http://kaacknicole.github.io/dock.jpg">
+
 <img src="dock.jpg">
 <p>Nicole Kaack is an independent curator and writer from Northern California, currently based in Queens, New York. She works as the Dedalus Fellow in the museum archives at The Museum of Modern Art, New York, where she has assisted with archival displays for MoMA’s upcoming 2019 reinstallation as well as for Being Modern at the Fondation Louis Vuitton, Paris. Kaack will be the 2018-2019 Curatorial Fellow at The Kitchen, New York, where she will coordinate programming of the Language Art Body discussion series, as well as acting as artist liaison for the annual art auction.</p>
 
