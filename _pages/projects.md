@@ -11,7 +11,7 @@ title: Projects
   </header>
 
   <article class="projects">
-<h3>Curatorial</h2>
+<h3>Curatorial</h3>
 <br />
 <p><a href="http://www.crush-curatorial.com/science-fictions" target="_blank" rel="noopener">Science Fictions</a><br>
 CRUSHCURATORIAL, New York, NY<br>
