@@ -10,6 +10,7 @@ NARS Foundation, Brooklyn, NY<br>
 Bat-Ami Rivlin<br>
 May 2019</p>
 <p><a>Object Intimacies (upcoming)</a><br>
+Curated by Jane Cavalier and Nicole Kaack<br>
 NURTUREart, Brooklyn, NY<br>
 December 2018</p>
 <p><a href="http://www.crush-curatorial.com/science-fictions" target="_blank" rel="noopener">Science Fictions</a><br>
