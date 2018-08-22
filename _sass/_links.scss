@@ -1,15 +1,15 @@
 a {
-    color: $text-color;
+    color: black;
     text-decoration: none;
 
     &:hover {
-        color: $theme-color;
+        color: black;
         text-decoration: none;
     }
 }
 
 article a, .news a {
-    color: $theme-color;
+    color: black;
     font-weight: 100;
 
     &:hover {
@@ -25,7 +25,7 @@ article a, .news a {
 
 
 // a {
-//   color: $link-color;
+//   color: black;
 //   background-image: linear-gradient(to top,
 //     rgba(0,0,0,0) 13%,
 //     rgba($link-color,.8) 13%,
@@ -39,7 +39,7 @@ article a, .news a {
 // a:focus,
 // a:active {
 //   border: 0;
-//   color: $link-hover-color;
+//   color: black;
 //   text-decoration: none;
 //   background-image: linear-gradient(to top,
 //     rgba(0,0,0,0) 13%,
