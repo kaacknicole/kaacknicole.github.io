@@ -23,7 +23,7 @@ with a workshop hosted by Katie Giritlian of Conch Shell<br>
 November 18 – December 31, 2017</p>
 <p><a href="https://kaacknicole.wordpress.com/cv/enveloped/" target="_blank" rel="noopener">Enveloped</a><br>
 Small Editions, Brooklyn, NY<br>
-Andre Bradley, Boru O’Brien O’Connell, Nyeema Morgan<br>
+Andre Bradley, Boru O’Brien O’Connell, Jimena Sarno<br>
 September 30 – November 5, 2017</p>
 <p><a href="https://kaacknicole.wordpress.com/cv/paperless/" rel="noopener">Paperless</a><br>
 Small Editions, Brooklyn, NY<br>
