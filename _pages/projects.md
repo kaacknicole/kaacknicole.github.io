@@ -5,6 +5,13 @@ title: Projects
 ---
 <div class="post"><article class="projects">
 <h3>Curatorial</h3>
+<p><a>It All Trembles (upcoming)</a><br>
+NARS Foundation, Brooklyn, NY<br>
+Bat-Ami Rivlin<br>
+May 2019</p>
+<p><a>Object Intimacies (upcoming)</a><br>
+NURTUREart, Brooklyn, NY<br>
+December 2018</p>
 <p><a href="http://www.crush-curatorial.com/science-fictions" target="_blank" rel="noopener">Science Fictions</a><br>
 CRUSHCURATORIAL, New York, NY<br>
 Brittany Nelson and Gabriela Vainsencher<br>
