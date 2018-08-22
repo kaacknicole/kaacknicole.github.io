@@ -5,7 +5,7 @@ title: Projects
 ---
 <div class="post"><article class="projects">
 <h3>Curatorial</h3>
-<p><a>It All Trembles (upcoming)</a><br>
+<p><i>It All Trembles (upcoming)</i><br>
 NARS Foundation, Brooklyn, NY<br>
 Bat-Ami Rivlin<br>
 May 2019</p>
