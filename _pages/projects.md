@@ -11,21 +11,21 @@ Brittany Nelson and Gabriela Vainsencher<br>
 with a reading by Ariel Goldberg<br>
 June 28 – August 6, 2018</p>
 <div></div>
-<p><a href="https://kaacknicole.wordpress.com/cv/reframed/">Re:Framed</a><br>
+<p><a href="https://kaacknicole.github.io/PDFs/2018_ReFramed_ExhibitionInfo.pdf" target="_blank">Re:Framed</a><br>
 (Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:)<br>
 Re: Art Show, Brooklyn, NY<br>
 Dana Buhl, Emmy Catedral, Golnaz Esmaili, Curtis Glenn, Jibade-Khalil Huffman, Tomashi Jackson, E.M. Joseph, Simone Kearney, Martha Naranjo Sandoval, Elise Peterson, Constance Tenvik<br>
 January 20 – February 10, 2018</p>
-<p><a href="https://kaacknicole.github.io/wordless.pdf" target="_blank">Wordless</a><br>
+<p><a href="https://kaacknicole.github.io/PDFs/Wordless_ExhibitionInfo.pdf" target="_blank">Wordless</a><br>
 Small Editions, Brooklyn, NY<br>
 Rosaire Appel, Zipora Fried, Renee Gladman<br>
 with a workshop hosted by Katie Giritlian of Conch Shell<br>
 November 18 – December 31, 2017</p>
-<p><a href="https://kaacknicole.wordpress.com/cv/enveloped/" target="_blank" rel="noopener">Enveloped</a><br>
+<p><a href="https://kaacknicole.github.io/PDFs/Enveloped_ExhibitionInfo.pdf" target="_blank" rel="noopener">Enveloped</a><br>
 Small Editions, Brooklyn, NY<br>
 Andre Bradley, Boru O’Brien O’Connell, Jimena Sarno<br>
 September 30 – November 5, 2017</p>
-<p><a href="https://kaacknicole.wordpress.com/cv/paperless/" rel="noopener">Paperless</a><br>
+<p><a href="https://kaacknicole.github.io/PDFs/Paperless_ExhibitionInfo.pdf" target="_blank" rel="noopener">Paperless</a><br>
 Small Editions, Brooklyn, NY<br>
 Max Fowler and Rachel Haberstroh, Sujin Lee, Nyeema Morgan<br>
 with a performance by Benjamin Santiago<br>
