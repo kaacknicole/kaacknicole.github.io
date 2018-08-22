@@ -16,7 +16,7 @@ June 28 – August 6, 2018</p>
 Re: Art Show, Brooklyn, NY<br>
 Dana Buhl, Emmy Catedral, Golnaz Esmaili, Curtis Glenn, Jibade-Khalil Huffman, Tomashi Jackson, E.M. Joseph, Simone Kearney, Martha Naranjo Sandoval, Elise Peterson, Constance Tenvik<br>
 January 20 – February 10, 2018</p>
-<p><a href="wordless.pdf">Wordless</a><br>
+<p><a href="kaacknicole.github.io/wordless.pdf">Wordless</a><br>
 Small Editions, Brooklyn, NY<br>
 Rosaire Appel, Zipora Fried, Renee Gladman<br>
 with a workshop hosted by Katie Giritlian of Conch Shell<br>
