@@ -10,6 +10,7 @@ description:
 
   <article class="post-content {{page.title}} clearfix">
 
+<p>"Towards a Basic Bibliography," <i>Recto / Verso</i> (New York: Hauser & Wirth Publishers, 2018) <i>(forthcoming)</i></p>
 <p><a href="https://www.artforum.com/picks/several-years-have-passed-74968" target="_blank" rel="noopener">“Several Years Have Passed,”</a> Artforum, April 2018</p>
 <p><a href="https://www.artforum.com/picks/deana-lawson-74623" target="_blank" rel="noopener">Deana Lawson</a>, Artforum, March 2018</p>
 <p><a href="http://www.smalleditionsnyc.com/publications/wordless/">Wordless</a>,&nbsp;exhibition catalog, Small Editions, November 2017</p>
