@@ -61,7 +61,6 @@ description:
 <p><a href="http://www.crush-curatorial.com/virginia-lee-montgomery-1" target="_blank" rel="noopener">Virginia Lee Montgomery</a>, CRUSHCURATORIAL, May 2018</p>
 <p><a href="http://www.crush-curatorial.com/aglae-bassens-eric-oglander" target="_blank" rel="noopener">Aglaé Bassens / Eric Oglander</a>, CRUSHCURATORIAL, April 2018</p>
 <p><a href="http://www.crush-curatorial.com/lauren-faigeles-with-james-siena" target="_blank" rel="noopener">Lauren Faigeles / James Siena</a>, CRUSHCURATORIAL, March 2018</p>
-<p><a href="http://www.crush-curatorial.com/lauren-faigeles-with-james-siena" target="_blank" rel="noopener">Lauren Faigeles / James Siena</a>, CRUSHCURATORIAL, March 2018</p>
 <p><a href="http://www.crush-curatorial.com/johannes-deyoungsam-messer" target="_blank" rel="noopener">Johannes DeYoung / Natalie Westbrook</a>, CRUSHCURATORIAL, January 2018</p>
 <p><a href="http://www.crush-curatorial.com/conversations/taro-suzuki-mary-heilmann-friends" target="_blank" rel="noopener">Taro Suzuki / Mary Heilmann / Friends</a>, CRUSHCURATORIAL, December 2018</p>
 <p><a href="http://www.crush-curatorial.com/conversations/charlotte-hallberg-peter-halley" target="_blank" rel="noopener">Charlotte Hallberg / Peter Halley</a>, CRUSHCURATORIAL, November 2018</p>
