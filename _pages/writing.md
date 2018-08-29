@@ -55,4 +55,16 @@ description:
 <p><a href="http://www.artcritical.com/2016/04/23/nicole-kaack-on-samara-golden/" target="_blank" rel="noopener">Little Boxes: Samara Golden at Yerba Buena</a>, artcritical, April 2016</p>
 <p><a href="http://www.artcritical.com/2016/04/16/nicole-kaack-on-andrea-fraser/" target="_blank" rel="noopener">Unbridgeable Gap: Andrea Fraser Brings Sing Sing to the Whitney</a>, artcritical, April 2016</p>
 
+<h1>Conversations</h1>
+<p><a href="http://www.crush-curatorial.com/gabriela-vainsencher-brittany-nelson" target="_blank" rel="noopener">Gabriela Vainsencher / Brittany Nelson</a>, CRUSHCURATORIAL, June 2018</p>
+<p><a href="http://www.crush-curatorial.com/caroline-wells-chandler-jennifer-coates-david-humphrey-angela-dufresne" target="_blank" rel="noopener">Caroline Wells Chandler / Jennifer Coates / David Humphries / Angela Dufresne</a>, CRUSHCURATORIAL, June 2018</p>
+<p><a href="http://www.crush-curatorial.com/virginia-lee-montgomery-1" target="_blank" rel="noopener">Virginia Lee Montgomery</a>, CRUSHCURATORIAL, May 2018</p>
+<p><a href="http://www.crush-curatorial.com/aglae-bassens-eric-oglander" target="_blank" rel="noopener">Aglaé Bassens / Eric Oglander</a>, CRUSHCURATORIAL, April 2018</p>
+<p><a href="http://www.crush-curatorial.com/lauren-faigeles-with-james-siena" target="_blank" rel="noopener">Lauren Faigeles / James Siena</a>, CRUSHCURATORIAL, March 2018</p>
+<p><a href="http://www.crush-curatorial.com/lauren-faigeles-with-james-siena" target="_blank" rel="noopener">Lauren Faigeles / James Siena</a>, CRUSHCURATORIAL, March 2018</p>
+<p><a href="http://www.crush-curatorial.com/johannes-deyoungsam-messer" target="_blank" rel="noopener">Johannes DeYoung / Natalie Westbrook</a>, CRUSHCURATORIAL, January 2018</p>
+<p><a href="http://www.crush-curatorial.com/conversations/taro-suzuki-mary-heilmann-friends" target="_blank" rel="noopener">Taro Suzuki / Mary Heilmann / Friends</a>, CRUSHCURATORIAL, December 2018</p>
+<p><a href="http://www.crush-curatorial.com/conversations/charlotte-hallberg-peter-halley" target="_blank" rel="noopener">Charlotte Hallberg / Peter Halley</a>, CRUSHCURATORIAL, November 2018</p>
+<p><a href="http://www.crush-curatorial.com/conversations/bill-komoski-lauren-silva/" target="_blank" rel="noopener">Bill Komoski / Lauren Silva / Dona Nelson</a>, CRUSHCURATORIAL, October 2018</p>
+
   </article></div>
