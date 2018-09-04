@@ -42,7 +42,7 @@ description:
 <p><a href="http://sfaq.us/2016/08/adding-one-to-infinity-the-keeper-at-the-new-museum/" target="_blank" rel="noopener">Adding One to Infinity: The Keeper at the New Museum</a>,&nbsp;SFAQ / NYAQ / LXAQ, August 2016</p>
 <p><a href="http://www.artcritical.com/2016/07/29/nicole-kaack-on-ties-that-bind/" target="_blank" rel="noopener">Overlap: Intersecting Identities at the Baxter St. Camera Club</a>, artcritical, July 2016</p>
 <p><a href="https://www.artforum.com/picks/id=62378" target="_blank" rel="noopener">Yanyan Huang</a>, Artforum, July 2016</p>
-<p><a href="https://whitehotmagazine.com/articles/hecox-at-equity-gallery-ny/3478" target="_blank" rel="noopener">From the Gallery to Urbanity: Rhys Hecox at Equity Gallery</a>, NY, Whithot Magazine, July 2016</p>
+<p><a href="https://whitehotmagazine.com/articles/hecox-at-equity-gallery-ny/3478" target="_blank" rel="noopener">From the Gallery to Urbanity: Rhys Hecox at Equity Gallery</a>, NY, Whitehot Magazine, July 2016</p>
 <p><a href="http://sfaq.us/2016/07/going-behind-time-melissa-brown-at-magenta-plains/" target="_blank" rel="noopener">Going Behind Time: Melissa Brown at Magenta Plains</a>,&nbsp;SFAQ / NYAQ / LXAQ, July 2016</p>
 <p><a href="http://sfaq.us/2016/07/re-runs-for-the-forever-young-vito-acconci/" target="_blank" rel="noopener">Re-Runs for the Forever Young: Vito Acconci</a>,&nbsp;SFAQ / NYAQ / LXAQ, July 2016</p>
 <p><a href="http://www.artcritical.com/2016/06/27/nicole-kaack-on-jordan-wolfson/" target="_blank" rel="noopener">Master of Puppets: Jordan Wolfson at David Zwirner</a>, artcritical, June 2016</p>
