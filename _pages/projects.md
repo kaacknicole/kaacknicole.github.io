@@ -9,10 +9,10 @@ title: Projects
 NARS Foundation, Brooklyn, NY<br>
 Bat-Ami Rivlin<br>
 May 2019</p>
-<p><i>Object Intimacies (upcoming)</i><br>
+<p><a href="http://nurtureart.org/program/object-intimacies/" rel="noopener"><i>Object Intimacies</i></a><br>
 Curated by Jane Cavalier and Nicole Kaack<br>
 NURTUREart, Brooklyn, NY<br>
-December 2018</p>
+December 1, 2018 - January 13, 2019</p>
 <p><a href="http://www.crush-curatorial.com/science-fictions" target="_blank" rel="noopener"><i>Science Fictions</i></a><br>
 CRUSHCURATORIAL, New York, NY<br>
 Brittany Nelson and Gabriela Vainsencher<br>
