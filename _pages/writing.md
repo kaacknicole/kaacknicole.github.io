@@ -57,6 +57,8 @@ description:
 <p><a href="http://www.artcritical.com/2016/04/16/nicole-kaack-on-andrea-fraser/" target="_blank" rel="noopener">Unbridgeable Gap: Andrea Fraser Brings Sing Sing to the Whitney</a>, artcritical, April 2016</p>
 
 <h1>Conversations</h1>
+<p><a href="http://thekitchen.org/event/the-kitchen-l-a-b-november-5-2018" target="_blank" rel="noopener">The Kitchen LAB: Tyler Coburn, Devin N. Morris, Precious Okoyomon</a>, The Kitchen, November 2018</p>
+<p><a href="http://thekitchen.org/event/the-kitchen-l-a-b-october-1-2018" target="_blank" rel="noopener">The Kitchen LAB: Eli Keszler, Ajay Kurian, Alexandra Tatarsky</a>, The Kitchen, October 2018</p>
 <p><a href="http://www.crush-curatorial.com/gabriela-vainsencher-brittany-nelson" target="_blank" rel="noopener">Gabriela Vainsencher / Brittany Nelson</a>, CRUSHCURATORIAL, June 2018</p>
 <p><a href="http://www.crush-curatorial.com/caroline-wells-chandler-jennifer-coates-david-humphrey-angela-dufresne" target="_blank" rel="noopener">Caroline Wells Chandler / Jennifer Coates / David Humphries / Angela Dufresne</a>, CRUSHCURATORIAL, June 2018</p>
 <p><a href="http://www.crush-curatorial.com/virginia-lee-montgomery-1" target="_blank" rel="noopener">Virginia Lee Montgomery</a>, CRUSHCURATORIAL, May 2018</p>
