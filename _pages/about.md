@@ -4,8 +4,8 @@ permalink: /
 title: Nicole Kaack 
 profile:
   align: right
-  image: "light.jpg"
-  size: 1500
+  image: "dock.jpg"
+  size: 2000
 ---
 <p>Nicole Kaack is an independent curator and writer based in Queens, NY. She is the current Curatorial Fellow at The Kitchen, New York, as well as Assistant Director at the Photo Collections Preservation Project (PCPP).</p>
 
