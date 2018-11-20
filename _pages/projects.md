@@ -13,6 +13,10 @@ May 2019</p>
 Curated by Jane Cavalier and Nicole Kaack<br>
 NURTUREart, Brooklyn, NY<br>
 December 1, 2018 - January 13, 2019</p>
+<p><a href="https://440gallery.com/new-events/2018/10/14/opening-reception-small-works-show" rel="noopener"><i>Small Works Show</i></a><br>
+Juried by Nicole Kaack<br>
+440 Gallery, Brooklyn, NY<br>
+November 29 - December 28, 2018</p>
 <p><a href="http://www.crush-curatorial.com/science-fictions" target="_blank" rel="noopener"><i>Science Fictions</i></a><br>
 CRUSHCURATORIAL, New York, NY<br>
 Brittany Nelson and Gabriela Vainsencher<br>
