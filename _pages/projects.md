@@ -29,6 +29,7 @@ June 28 – August 6, 2018</p>
 <div></div>
 <p><a href="https://kaacknicole.github.io/PDFs/2018_ReFramed_ExhibitionInfo.pdf" target="_blank"><i>Re:Framed</i></a><br>
 (Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:)<br>
+Curated by Jane Cavalier and Nicole Kaack<br>
 Re: Art Show, Brooklyn, NY<br>
 Dana Buhl, Emmy Catedral, Golnaz Esmaili, Curtis Glenn, Jibade-Khalil Huffman, Tomashi Jackson, E.M. Joseph, Simone Kearney, Martha Naranjo Sandoval, Elise Peterson, Constance Tenvik<br>
 January 20 – February 10, 2018</p>
