@@ -5,10 +5,14 @@ title: Projects
 ---
 <div class="post"><article class="projects">
 <h3>Curatorial</h3>
-<p><i>It All Trembles (upcoming)</i><br>
+<p><i>It All Trembles</i> (upcoming)<br>
 NARS Foundation, Brooklyn, NY<br>
 Bat-Ami Rivlin<br>
 May 2019</p>
+<p><i>Two fingers make a line</i> (upcoming)<br>
+Curated by Jane Cavalier and Nicole Kaack<br>
+Assembly Room, New York, NY<br>
+February 2 - February 23, 2019</p>
 <p><a href="http://nurtureart.org/program/object-intimacies/" rel="noopener"><i>Object Intimacies</i></a><br>
 Curated by Jane Cavalier and Nicole Kaack<br>
 NURTUREart, Brooklyn, NY<br>
