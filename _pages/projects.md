@@ -13,7 +13,7 @@ May 2019</p>
 Curated by Jane Cavalier and Nicole Kaack<br>
 Assembly Room, New York, NY<br>
 February 2 - February 23, 2019</p>
-<p><a href="https://kaacknicole.github.io/PDFs/2018_ObjectIntimacies_ExhibitionInfo.pdf" target="_blank"><i>Object Intimacies</i></a><br>
+<p><a href="https://kaacknicole.github.io/PDFs/ObjectIntimacies_ExhibitionInfo.pdf" target="_blank"><i>Object Intimacies</i></a><br>
 Curated by Jane Cavalier and Nicole Kaack<br>
 NURTUREart, Brooklyn, NY<br>
 December 1, 2018 - January 13, 2019</p>
