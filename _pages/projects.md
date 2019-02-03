@@ -9,7 +9,7 @@ title: Projects
 NARS Foundation, Brooklyn, NY<br>
 Bat-Ami Rivlin<br>
 May 2019</p>
-<p><a href="https://kaacknicole.github.io/PDFs/2019_ChangYuchen_TwoFingersMakeALine_Exhibition Info.pdf" target="_blank"><i>Object Intimacies</i></a><br>
+<p><a href="https://kaacknicole.github.io/PDFs/2019_ChangYuchen_TwoFingersMakeALine_Exhibition Info.pdf" target="_blank"><i>Chang Yuchen: Two fingers make a line</i></a><br>
 Curated by Jane Cavalier and Nicole Kaack<br>
 Assembly Room, New York, NY<br>
 February 2 - February 23, 2019</p>
