@@ -9,7 +9,7 @@ title: Projects
 NARS Foundation, Brooklyn, NY<br>
 Bat-Ami Rivlin<br>
 May 2019</p>
-<p><a href="https://kaacknicole.github.io/PDFs/2019_ChangYuchen_TwoFingersMakeALine_Exhibition Info.pdf" target="_blank"><i>Chang Yuchen: Two fingers make a line</i></a><br>
+<p><a href="https://kaacknicole.github.io/PDFs/2019_ChangYuchen_TwoFingersMakeALine_ExhibitionInfo.pdf" target="_blank"><i>Chang Yuchen: Two fingers make a line</i></a><br>
 Curated by Jane Cavalier and Nicole Kaack<br>
 Assembly Room, New York, NY<br>
 February 2 - February 23, 2019</p>
@@ -17,7 +17,7 @@ February 2 - February 23, 2019</p>
 Curated by Jane Cavalier and Nicole Kaack<br>
 NURTUREart, Brooklyn, NY<br>
 December 1, 2018 - January 13, 2019</p>
-<p><a href="https://kaacknicole.github.io/PDFs/2018_440SmallWorks_Exhibition Info.pdf" rel="noopener"><i>Small Works Show</i></a><br>
+<p><a href="https://kaacknicole.github.io/PDFs/2018_440SmallWorks_ExhibitionInfo.pdf" rel="noopener"><i>Small Works Show</i></a><br>
 Juried by Nicole Kaack<br>
 440 Gallery, Brooklyn, NY<br>
 November 29 - December 28, 2018</p>
