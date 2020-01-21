@@ -5,7 +5,8 @@ title: Projects
 ---
 <div class="post"><article class="projects">
 <h3>Curatorial</h3>
-  <p><i><strike>laissez faire et laissez passer</strike></i> ...more details soon...<br>
+<p><a href="https://kaacknicole.github.io/PDFs/2019_laissezfaire_HUNTER_lo" target="_blank"><i><strike>laissez faire et laissez passer</strike></i></a><br>
+<a href="https://kaacknicole.github.io/PDFs/2019_Hunter_G2_Zine_FINAL.pdf" target="_blank">Exhibition Zine</a><br>
 Hunter College, New York, NY<br>
 Hannah Beerman, Brian Yihurn Byun, Elizabeth Harney, Emily Janowick, Judy Koo, Jessica Mensch, Patrick Carlin Mohundro, Andy Ralph, Jordan Stohl<br>
 December 2019</p>
