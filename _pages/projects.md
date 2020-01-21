@@ -9,10 +9,10 @@ title: Projects
 <a href="https://kaacknicole.github.io/PDFs/2019_Hunter_G2_Zine_FINAL.pdf" target="_blank">Exhibition Zine</a><br>
 Hunter College, New York, NY<br>
 Hannah Beerman, Brian Yihurn Byun, Elizabeth Harney, Emily Janowick, Judy Koo, Jessica Mensch, Patrick Carlin Mohundro, Andy Ralph, Jordan Stohl<br>
-December 2019</p>
+December 12, 2019—January 6,2020</p>
 <p><a href="https://kaacknicole.github.io/PDFs/2019_NARS_BatAmiRivlin_ItAllTrembles.pdf" target="_blank"><i>Bat-Ami Rivlin: It All Trembles</i></a><br>
 NARS Foundation, Brooklyn, NY<br>
-May 2019</p>
+May 3 – May 22, 2019</p>
 <p><a href="https://kaacknicole.github.io/PDFs/2019_ChangYuchen_TwoFingersMakeALine_ExhibitionInfo.pdf" target="_blank"><i>Chang Yuchen: Two fingers make a line</i></a><br>
 Curated by Jane Cavalier and Nicole Kaack<br>
 Assembly Room, New York, NY<br>
