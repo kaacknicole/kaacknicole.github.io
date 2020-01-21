@@ -5,7 +5,11 @@ title: Projects
 ---
 <div class="post"><article class="projects">
 <h3>Curatorial</h3>
-<p><i>It All Trembles</i>...more details soon...<br>
+  <p><i><strike>laissez faire et laissez passer</strike></i> ...more details soon...<br>
+Hunter College, New York, NY<br>
+Hannah Beerman, Brian Yihurn Byun, Elizabeth Harney, Emily Janowick, Judy Koo, Jessica Mensch, Patrick Carlin Mohundro, Andy Ralph, Jordan Stohl<br>
+December 2019</p>
+<p><i>It All Trembles</i> ...more details soon...<br>
 NARS Foundation, Brooklyn, NY<br>
 Bat-Ami Rivlin<br>
 May 2019</p>
