@@ -57,8 +57,13 @@ description:
 <p><a href="http://www.artcritical.com/2016/04/16/nicole-kaack-on-andrea-fraser/" target="_blank" rel="noopener">Unbridgeable Gap: Andrea Fraser Brings Sing Sing to the Whitney</a>, artcritical, April 2016</p>
 
 <h1>Conversations</h1>
+<p><a href="https://vimeo.com/338065446" target="_blank" rel="noopener">The Kitchen LAB: Jerriod Avant, Alex Fialho, Steffani Jemison, and Jill Magid</a>, Emily Harvey Foundation, May 2019</p>
+<p><a href="https://vimeo.com/336127384" target="_blank" rel="noopener">The Kitchen LAB: Paolo Javier and Amirtha Kidambi</a>, The Kitchen, April 2019</p>
+<p><a href="https://vimeo.com/314358108" target="_blank" rel="noopener">The Kitchen LAB: Keren Cytter, Lydia Goehr, and Marina Rosenfeld</a>, The Kitchen, March 2018</p>
+<p><a href="https://vimeo.com/314358108" target="_blank" rel="noopener">The Kitchen LAB: Lex Brown, L’Rain and Benjamin Krusling</a>, The Kitchen, January 2019</p>
+<p><a href="https://vimeo.com/309339499" target="_blank" rel="noopener">The Kitchen LAB: Fia Backstrom, A.K. Burns, and Christopher K. Ho</a>, The Kitchen, December 2018</p>
 <p><a href="http://thekitchen.org/event/the-kitchen-l-a-b-november-5-2018" target="_blank" rel="noopener">The Kitchen LAB: Tyler Coburn, Devin N. Morris, Precious Okoyomon</a>, The Kitchen, November 2018</p>
-<p><a href="http://thekitchen.org/event/the-kitchen-l-a-b-october-1-2018" target="_blank" rel="noopener">The Kitchen LAB: Eli Keszler, Ajay Kurian, Alexandra Tatarsky</a>, The Kitchen, October 2018</p>
+<p><a href="https://vimeo.com/306042945" target="_blank" rel="noopener">The Kitchen LAB: Eli Keszler, Ajay Kurian, Alexandra Tatarsky</a>, The Kitchen, October 2018</p>
 <p><a href="http://www.crush-curatorial.com/gabriela-vainsencher-brittany-nelson" target="_blank" rel="noopener">Gabriela Vainsencher / Brittany Nelson</a>, CRUSHCURATORIAL, June 2018</p>
 <p><a href="http://www.crush-curatorial.com/caroline-wells-chandler-jennifer-coates-david-humphrey-angela-dufresne" target="_blank" rel="noopener">Caroline Wells Chandler / Jennifer Coates / David Humphries / Angela Dufresne</a>, CRUSHCURATORIAL, June 2018</p>
 <p><a href="http://www.crush-curatorial.com/virginia-lee-montgomery-1" target="_blank" rel="noopener">Virginia Lee Montgomery</a>, CRUSHCURATORIAL, May 2018</p>
