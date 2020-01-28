@@ -5,6 +5,11 @@ title: Projects
 ---
 <div class="post"><article class="projects">
 <h3>Curatorial</h3>
+<p><i>CONTAIN</i> (current)<br>
+HESSE FLATOW, New York, NY<br>
+Chang Yuchen, Paige Landesberg, Shanzhai Lyric<br>
+January 28, 2020—February 1,2020</p>
+  
 <p><a href="https://kaacknicole.github.io/PDFs/2019_laissezfaire_HUNTER_lo.pdf" target="_blank"><i><strike>laissez faire et laissez passer</strike></i></a><br>
 <a href="https://kaacknicole.github.io/PDFs/2019_Hunter_G2_Zine_FINAL.pdf" target="_blank">Exhibition Zine</a><br>
 Hunter College, New York, NY<br>
