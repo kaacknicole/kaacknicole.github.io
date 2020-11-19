@@ -5,7 +5,7 @@ title: Projects
 ---
 <div class="post"><article class="projects">
 <h3>Curatorial</h3>
-<p><a href="https://kaacknicole.github.io/PDFs/2020_CONTAIN_Hesse Flatow" target="_blank"><i>CONTAIN</i></a><br>
+<p><a href="https://kaacknicole.github.io/PDFs/2020_CONTAIN_Hesse Flatow.pdf" target="_blank"><i>CONTAIN</i></a><br>
 HESSE FLATOW, New York, NY<br>
 Chang Yuchen, Paige Landesberg, Shanzhai Lyric<br>
 January 28, 2020—February 1,2020</p>
