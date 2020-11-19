@@ -5,7 +5,7 @@ title: Projects
 ---
 <div class="post"><article class="projects">
 <h3>Curatorial</h3>
-<p><i>CONTAIN</i> (current)<br>
+<p><i>CONTAIN</i><br>
 HESSE FLATOW, New York, NY<br>
 Chang Yuchen, Paige Landesberg, Shanzhai Lyric<br>
 January 28, 2020—February 1,2020</p>
