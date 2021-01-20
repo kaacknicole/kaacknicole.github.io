@@ -4,7 +4,6 @@ permalink: /projects/
 title: Curatorial Projects
 ---
 <div class="post"><article class="projects">
-<h3>Curatorial</h3>
 <p><a href="https://kaacknicole.github.io/PDFs/2020_CONTAIN_Hesse Flatow.pdf" target="_blank"><i>CONTAIN</i></a><br>
 HESSE FLATOW, New York, NY<br>
 Chang Yuchen, Paige Landesberg, Shanzhai Lyric<br>
@@ -56,3 +55,4 @@ Small Editions, Brooklyn, NY<br>
 Max Fowler and Rachel Haberstroh, Sujin Lee, Nyeema Morgan<br>
 with a performance by Benjamin Santiago<br>
 July 29 – September 10, 2017</p>
+
