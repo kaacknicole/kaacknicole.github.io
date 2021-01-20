@@ -1,6 +1,6 @@
 ---
-layout: page
-permalink: /Art/
+layout: default
+permalink: /art/
 title: Art
 ---
 <div class="post">
