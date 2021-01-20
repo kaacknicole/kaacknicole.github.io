@@ -77,4 +77,9 @@ description:
 <p><a href="http://www.crush-curatorial.com/conversations/charlotte-hallberg-peter-halley" target="_blank" rel="noopener">Charlotte Hallberg / Peter Halley</a>, CRUSHCURATORIAL, November 2018</p>
 <p><a href="http://www.crush-curatorial.com/conversations/bill-komoski-lauren-silva/" target="_blank" rel="noopener">Bill Komoski / Lauren Silva / Dona Nelson</a>, CRUSHCURATORIAL, October 2018</p>
 
+<h3>Publications</h3>
+<p><a href="https://ofmissingout.wordpress.com/" target="_blank" rel="noopener">Of Missing Out</a>, Fall 2017 – ongoing</p>
+<p><a href="http://cargocollective.com/promptcolon" target="_blank">prompt:</a>, Spring 2018 – ongoing</p>
+<p><a href="http://notnothing.ooo/" target="_blank">Not Nothing</a>, Fall 2018 - ongoing</p>
+
   </article></div>
