@@ -3,7 +3,7 @@ layout: page
 permalink: /Art/
 title: Art
 ---
-<div class="page">
+<div class="post">
 
   <article class="post-content {{page.title}} clearfix">
   
