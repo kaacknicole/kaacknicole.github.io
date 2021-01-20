@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /writing/
-title: Writing + Dialogs
+title: Writing + Dialogues
 description:
 ---
 <h1>Writing</h1>
@@ -56,7 +56,7 @@ description:
 <p><a href="http://www.artcritical.com/2016/04/23/nicole-kaack-on-samara-golden/" target="_blank" rel="noopener">Little Boxes: Samara Golden at Yerba Buena</a>, artcritical, April 2016</p>
 <p><a href="http://www.artcritical.com/2016/04/16/nicole-kaack-on-andrea-fraser/" target="_blank" rel="noopener">Unbridgeable Gap: Andrea Fraser Brings Sing Sing to the Whitney</a>, artcritical, April 2016</p>
 
-<h1>Dialogs</h1>
+<h1>Dialogues</h1>
 <p><a href="https://hesseflatow.com/viewing-room/6-virginia-lee-montgomery-in-conversation-with-nicole-kaack/">Virginia Lee Montgomery in conversation with Nicole Kaack</a> <i>, HESSE FLATOW</i>, 2020</p>
 <p><a href="https://bombmagazine.org/articles/sara-magenheimer/" rel="noopener">Stop Making Sense: Sara Magenheimer Interviewed by Nicole Kaack</a> <i>, BOMB Magazine</i>, 2020</p>
 <p><a href="https://soundamerican.org/issues/change/jeremy-toussaint-baptiste-conversation" rel="noopener">Jeremy Toussaint-Baptiste in conversation with Nicole Kaack</a> <i>, Sound American No. 21: The Change Issue</i>, 2019</p>
