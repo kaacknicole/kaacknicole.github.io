@@ -57,6 +57,8 @@ description:
 <p><a href="http://www.artcritical.com/2016/04/16/nicole-kaack-on-andrea-fraser/" target="_blank" rel="noopener">Unbridgeable Gap: Andrea Fraser Brings Sing Sing to the Whitney</a>, artcritical, April 2016</p>
 
 <h1>Dialogs</h1>
+<p><a href="https://hesseflatow.com/viewing-room/6-virginia-lee-montgomery-in-conversation-with-nicole-kaack/">Virginia Lee Montgomery in conversation with Nicole Kaack</a> <i>, HESSE FLATOW</i>, 2020</p>
+<p><a href="https://bombmagazine.org/articles/sara-magenheimer/" rel="noopener">Stop Making Sense: Sara Magenheimer Interviewed by Nicole Kaack</a> <i>, BOMB Magazine</i>, 2020</p>
 <p><a href="https://soundamerican.org/issues/change/jeremy-toussaint-baptiste-conversation" rel="noopener">Jeremy Toussaint-Baptiste in conversation with Nicole Kaack</a> <i>, Sound American No. 21: The Change Issue</i>, 2019</p>
 <p><a href="https://vimeo.com/338065446" target="_blank" rel="noopener">The Kitchen LAB: Jerriod Avant, Alex Fialho, Steffani Jemison, and Jill Magid</a>, Emily Harvey Foundation, May 2019</p>
 <p><a href="https://vimeo.com/336127384" target="_blank" rel="noopener">The Kitchen LAB: Paolo Javier and Amirtha Kidambi</a>, The Kitchen, April 2019</p>
