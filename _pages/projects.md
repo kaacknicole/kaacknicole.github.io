@@ -56,8 +56,3 @@ Small Editions, Brooklyn, NY<br>
 Max Fowler and Rachel Haberstroh, Sujin Lee, Nyeema Morgan<br>
 with a performance by Benjamin Santiago<br>
 July 29 – September 10, 2017</p>
-
-<h3>Publications</h3>
-<p><a href="https://ofmissingout.wordpress.com/" target="_blank" rel="noopener">Of Missing Out</a>, Fall 2017 – ongoing</p>
-<p><a href="http://cargocollective.com/promptcolon" target="_blank">prompt:</a>, Spring 2018 – ongoing</p>
-<p><a href="http://notnothing.ooo/" target="_blank">Not Nothing</a>, Fall 2018 - ongoing</p>
