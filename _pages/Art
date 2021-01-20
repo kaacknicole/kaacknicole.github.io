@@ -3,8 +3,10 @@ layout: page
 permalink: /Art/
 title: Art
 ---
-<div class="post"><article class="Art">
+<div class="post">
 
+  <article class="post-content {{page.title}} clearfix">
+  
 <h3>Group Exhibitions</h3>
 <a href="https://arthistory.barnard.edu/events/residues" target="_blank" rel="noopener"><i>residues</i></a><br>
 <p>Curated by Mira Dayal<br>
