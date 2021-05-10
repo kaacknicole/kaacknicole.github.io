@@ -4,6 +4,17 @@ permalink: /projects/
 title: Curatorial Projects
 ---
 <div class="post"><article class="projects">
+<p><i>There was earth in them, and they dug.</i><br>
+Miriam Gallery, Brooklyn, NY<br>
+Colleen Billing, Clare Koury, Alexandra Neuman, Umico Niwa<br>
+June 10 - August 8, 2021</p>
+
+<p><a href="https://hesseflatow.com/exhibitions/44-the-symbolists-les-fleurs-du-mal/overview/" target="_blank"><i>THE SYMBOLISTS: LES FLEURS DU MAL</i></a><br>
+HESSE FLATOW, New York, NY<br>
+Curated by Karen Hesse Flatow and Nicole Kaack<br>
+Alicia Adamerovich, Joseph Buckley, Maho Donowaki, Hilary Doyle, Clark Filio, Caroline Garcia, Eliot Greenwald, Exene Karros, Nat Meade, Tammy Nguyen, Louis Osmosis, Georgica Pettus, Johanna Robinson, Sistership TV, Alicia Smith, Astrid Terrazas<br>
+February 18 - March 20, 2021</p>
+  
 <p><a href="https://kaacknicole.github.io/PDFs/2020_CONTAIN_Hesse Flatow.pdf" target="_blank"><i>CONTAIN</i></a><br>
 HESSE FLATOW, New York, NY<br>
 Chang Yuchen, Paige Landesberg, Shanzhai Lyric<br>
