@@ -9,7 +9,7 @@ description:
 <div class="post">
 
   <article class="post-content {{page.title}} clearfix">
-
+<p><a href="https://brooklynrail.org/2021/04/art_books/Maryanne-Amachers-Selected-Writings-and-Interviews" target="_blank" rel="noopener">Maryanne Amacher’s Selected Writings and Interviews</a>, The Brooklyn Rail, April 2021</p>
 <p><a href="https://brooklynrail.org/2018/11/artseen/Dismantling-the-Masters-House-The-Color-Curtain-Dinner" target="_blank" rel="noopener">Dismantling the Master’s House: The Color Curtain Dinner</a>, The Brooklyn Rail, November 2018</p>
 <p>"Towards a Basic Bibliography," <i>Recto / Verso</i> (New York: Hauser & Wirth Publishers, 2018)</p>
 <p><a href="https://www.artforum.com/picks/several-years-have-passed-74968" target="_blank" rel="noopener">“Several Years Have Passed,”</a> Artforum, April 2018</p>
