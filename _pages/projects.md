@@ -4,7 +4,7 @@ permalink: /projects/
 title: Curatorial Projects
 ---
 <div class="post"><article class="projects">
-<p><i>There was earth in them, and they dug.</i><br>
+<p><a href="https://kaacknicole.github.io/PDFs/Miriam_Exhibition Info_2021.pdf" target="_blank"><i>There was earth in them, and they dug.</i></a><br>
 Miriam Gallery, Brooklyn, NY<br>
 Colleen Billing, Clare Koury, Alexandra Neuman, Umico Niwa<br>
 June 10 - August 8, 2021</p>
