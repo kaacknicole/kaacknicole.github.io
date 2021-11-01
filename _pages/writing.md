@@ -7,7 +7,7 @@ description:
 <h1>Writing</h1>
 
 <div class="post">
-
+<p> “The Garden, 2020” in <a href="https://www.hirmerverlag.de/us/titel-88-3/life_as_activity_david_lamelas-2180/" target="_blank" rel="noopener">Life as Activity: David Lamelas</a> (Hirmer Verlag), January 2022 (upcoming)</p>
   <article class="post-content {{page.title}} clearfix">
 <p><a href="https://www.artforum.com/picks/jacob-jackmauh-and-lina-mcginn-87065" target="_blank" rel="noopener">Jacob Jackmauh and Lina McGinn at Art Lot</a>, Artforum, October 2021</p>
 <p><a href="https://brooklynrail.org/2021/10/art_books/Kristin-Bedfords-Cruise-Night" target="_blank" rel="noopener">Kristin Bedford’s Cruise Night</a>, The Brooklyn Rail, October 2021 (print)</p>
