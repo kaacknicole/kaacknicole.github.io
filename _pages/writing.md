@@ -12,9 +12,9 @@ description:
 <p><a href="https://www.artforum.com/picks/jacob-jackmauh-and-lina-mcginn-87065" target="_blank" rel="noopener">Jacob Jackmauh and Lina McGinn at Art Lot</a>, Artforum, October 2021</p>
 <p><a href="https://brooklynrail.org/2021/10/art_books/Kristin-Bedfords-Cruise-Night" target="_blank" rel="noopener">Kristin Bedford’s Cruise Night</a>, The Brooklyn Rail, October 2021 (print)</p>
 <p><a href="https://www.artnews.com/art-in-america/aia-reviews/paradox-of-stillness-walker-art-center-1234599083/" target="_blank" rel="noopener">Objects at Rest: "The Paradox of Stillness" at the Walker Art Center</a>, Art In America, July 2021</p>
-<p><a href="https://soundamerican.org/issues/alien/introduction-charles-gainess-librettos" target="_blank" rel="noopener">An Introduction to Charles Gaines's Librettos</a>, Sound American No. 23: The Alien Issue, February 2020 (print)</p>
 <p><a href="https://brooklynrail.org/2021/04/art_books/Maryanne-Amachers-Selected-Writings-and-Interviews" target="_blank" rel="noopener">Maryanne Amacher’s Selected Writings and Interviews</a>, The Brooklyn Rail, April 2021 (print)</p>
     <p><a href="https://bombmagazine.org/articles/sara-magenheimer/" rel="noopener">Stop Making Sense: Sara Magenheimer Interviewed by Nicole Kaack</a> <i>, BOMB Magazine</i>, April 2020</p>
+<p><a href="https://soundamerican.org/issues/alien/introduction-charles-gainess-librettos" target="_blank" rel="noopener">An Introduction to Charles Gaines's Librettos</a>, Sound American No. 23: The Alien Issue, February 2020 (print)</p>
 <p><a href="https://soundamerican.org/issues/change/jeremy-toussaint-baptiste-conversation" rel="noopener">Jeremy Toussaint-Baptiste in conversation with Nicole Kaack</a> <i>, Sound American No. 21: The Change Issue</i>, May 2019</p>
 <p><a href="https://brooklynrail.org/2018/11/artseen/Dismantling-the-Masters-House-The-Color-Curtain-Dinner" target="_blank" rel="noopener">Dismantling the Master’s House: The Color Curtain Dinner</a>, The Brooklyn Rail, November 2018</p>
 <p>"Towards a Basic Bibliography," <i>Recto / Verso</i> (New York: Hauser & Wirth Publishers, 2018)</p>
