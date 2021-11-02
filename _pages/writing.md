@@ -9,7 +9,7 @@ description:
 <div class="post">
 <p>The Garden, <a href="https://www.hirmerverlag.de/us/titel-88-3/life_as_activity_david_lamelas-2180/" target="_blank" rel="noopener">Life as Activity: David Lamelas</a> (Hirmer Verlag), January 2022 (upcoming)</p>
   <article class="post-content {{page.title}} clearfix">
- <p> <a href="https://www.loyalgallery.com/exhibitions/long-reaching-gloves/" target="_blank" rel="noopener">Constance Tenvik: Long Reaching Gloves</a> at LOYAL Gallery, Oslo, Norway, November 2021.</p>
+ <p>Press Release:<a href="https://www.loyalgallery.com/exhibitions/long-reaching-gloves/" target="_blank" rel="noopener">Constance Tenvik: Long Reaching Gloves</a> at LOYAL Gallery, Oslo, Norway, November 2021.</p>
 <p><a href="https://www.artforum.com/picks/jacob-jackmauh-and-lina-mcginn-87065" target="_blank" rel="noopener">Jacob Jackmauh and Lina McGinn at Art Lot</a>, Artforum, October 2021</p>
 <p><a href="https://brooklynrail.org/2021/10/art_books/Kristin-Bedfords-Cruise-Night" target="_blank" rel="noopener">Kristin Bedford’s Cruise Night</a>, The Brooklyn Rail, October 2021 (print)</p>
 <p><a href="https://www.artnews.com/art-in-america/aia-reviews/paradox-of-stillness-walker-art-center-1234599083/" target="_blank" rel="noopener">Objects at Rest: "The Paradox of Stillness" at the Walker Art Center</a>, Art In America, July 2021</p>
