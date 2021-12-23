@@ -8,6 +8,8 @@ description:
 
 <div class="post">
 <p>The Garden, <a href="https://www.hirmerverlag.de/us/titel-88-3/life_as_activity_david_lamelas-2180/" target="_blank" rel="noopener">Life as Activity: David Lamelas</a> (Hirmer Verlag), January 2022 (upcoming)</p>
+<p>Contributed to:<a href="https://brooklynrail.org/2021/12/art_books/Best-Of-2021" target="_blank" rel="noopener">20 Best Art Books of 2021</a>, Brooklyn Rail, December 2021</p>
+<p><a href="https://www.artnews.com/art-in-america/aia-reviews/robert-ashley-roulette-1234610902/" target="_blank" rel="noopener">Replies Confidential: Robert Ashley at Roulette</a>, Art In America, November 2021</p>
   <article class="post-content {{page.title}} clearfix">
  <p>Press Release: <a href="https://www.loyalgallery.com/exhibitions/long-reaching-gloves/" target="_blank" rel="noopener">Constance Tenvik: Long Reaching Gloves</a> at LOYAL Gallery, Oslo, Norway, November 2021.</p>
 <p><a href="https://www.artforum.com/picks/jacob-jackmauh-and-lina-mcginn-87065" target="_blank" rel="noopener">Jacob Jackmauh and Lina McGinn at Art Lot</a>, Artforum, October 2021</p>
