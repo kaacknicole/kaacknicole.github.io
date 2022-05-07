@@ -100,6 +100,6 @@ description:
 <h1>Publications</h1>
 <p><a href="https://ofmissingout.wordpress.com/" target="_blank" rel="noopener">Of Missing Out</a>, Fall 2017 – ongoing</p>
 <p><a href="http://cargocollective.com/promptcolon" target="_blank">prompt:</a>, Spring 2018 – ongoing</p>
-<p><a href="http://notnothing.ooo/" target="_blank">Not Nothing</a>, Fall 2018 - ongoing</p>
+<p><a href="http://notnothing.ooo/" target="_blank">Not Nothing</a>, Fall 2018 – ongoing</p>
 
   </article></div>
