@@ -7,7 +7,7 @@ description:
 <h1>Writing</h1>
 
 <div class="post">
-<p><a href="https://www.artnews.com/art-in-america/features/astrid-terrazas-1234627923/" target="_blank" rel="noopener">Astrid Terrazas Paints Fantasy, Folklore, and Family Into Enigmatic Scenes</a>, Art In America, May 2022</p>
+<p><a href="https://www.artnews.com/art-in-america/features/astrid-terrazas-1234627923/" target="_blank" rel="noopener">Astrid Terrazas Paints Fantasy, Folklore, and Family Into Enigmatic Scenes</a>, Art In America, May 2022 (print)</p>
 <p><a href="https://www.dellupiarte.com/en/catalogo-silenzio-del-tempo" target="_blank" rel="noopener">Yanyan Huang, Silenzio del Tempo</a> (Milan: Dellupi Arte, March 2022)</p>
 <p>The Garden, <a href="https://www.hirmerverlag.de/us/titel-88-3/life_as_activity_david_lamelas-2180/" target="_blank" rel="noopener">Life as Activity: David Lamelas</a> (Munich: Hirmer Verlag, January 2022)</p>
 <p>"Pedestrian Secrets of the Universe," <a href="https://daylightbooks.org/products/prophetic-kingdom" target="_blank" rel="noopener">Martin Buday: Prophetic Kingdom</a> (Daylight Books, 2021)</p>
