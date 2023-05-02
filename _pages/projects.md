@@ -4,7 +4,7 @@ permalink: /projects/
 title: Curatorial Projects
 ---
 <div class="post"><article class="projects">
-<p><a href="https://kaacknicole.github.io/PDFs/2023_BodyDouble.pdf" target="_blank"><i>Body Double</i></a><br>
+<p><a href="https://kaacknicole.github.io/PDFs/2023_BodyDouble_PR.pdf" target="_blank"><i>Body Double</i></a><br>
 An event series exploring presence, virtuality, and transference<br>
 In partnership with Dunes, Portland, ME; Miriam, Brooklyn, NY; and Parent Company, Brooklyn, NY<br>
 Xavier Cha, Tyler Coburn, beck haberstroh, and Ian Hatcher<br>
