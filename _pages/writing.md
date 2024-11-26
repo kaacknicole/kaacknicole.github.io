@@ -7,17 +7,20 @@ description:
 <h1>Writing</h1>
 
 <div class="post">
-<p><a href="https://www.artnews.com/art-in-america/features/enunciation-escape-rawls-ellis-1234632227/" target="_blank" rel="noopener">On Enunciation and Escape</a>, Art In America, June 2022</p>
-<p><a href="https://www.artnews.com/art-in-america/features/astrid-terrazas-1234627923/" target="_blank" rel="noopener">Astrid Terrazas Paints Fantasy, Folklore, and Family Into Enigmatic Scenes</a>, Art In America, May 2022 (print)</p>
+<p>Jean Pierre Villafañe, Art in America, November 2024</p>
+ <p><a href="https://brooklynrail.org/2024/07/art_books/Pia-Camils-Friendly-Fires/" target="_blank" rel="noopener">Pia Camil's <i>Friendly Fires</i></a>, Brooklyn Rail, July/August 2024</p>
+<p><a href="https://www.artnews.com/art-in-america/features/enunciation-escape-rawls-ellis-1234632227/" target="_blank" rel="noopener">On Enunciation and Escape</a>, Art in America, June 2022</p>
+<p><a href="https://www.artnews.com/art-in-america/features/astrid-terrazas-1234627923/" target="_blank" rel="noopener">Astrid Terrazas Paints Fantasy, Folklore, and Family Into Enigmatic Scenes</a>, Art in America, May 2022 (print)</p>
+ <p>Leandro Katz’s <i>Self Hipnosis</i>, Book Art Review, 2022 (print)</p>
 <p><a href="https://www.dellupiarte.com/en/catalogo-silenzio-del-tempo" target="_blank" rel="noopener">Yanyan Huang, Silenzio del Tempo</a> (Milan: Dellupi Arte, March 2022)</p>
 <p>The Garden, <a href="https://www.hirmerverlag.de/us/titel-88-3/life_as_activity_david_lamelas-2180/" target="_blank" rel="noopener">Life as Activity: David Lamelas</a> (Munich: Hirmer Verlag, January 2022)</p>
 <p>"Pedestrian Secrets of the Universe," <a href="https://daylightbooks.org/products/prophetic-kingdom" target="_blank" rel="noopener">Martin Buday: Prophetic Kingdom</a> (Daylight Books, 2021)</p>
 <p>Contributed to: <a href="https://brooklynrail.org/2021/12/art_books/Best-Of-2021" target="_blank" rel="noopener">20 Best Art Books of 2021</a>, Brooklyn Rail, December 2021</p>
-<p><a href="https://www.artnews.com/art-in-america/aia-reviews/robert-ashley-roulette-1234610902/" target="_blank" rel="noopener">Replies Confidential: Robert Ashley at Roulette</a>, Art In America, November 2021</p>
+<p><a href="https://www.artnews.com/art-in-america/aia-reviews/robert-ashley-roulette-1234610902/" target="_blank" rel="noopener">Replies Confidential: Robert Ashley at Roulette</a>, Art in America, November 2021</p>
  <p>Press Release: <a href="https://www.loyalgallery.com/exhibitions/long-reaching-gloves/" target="_blank" rel="noopener">Constance Tenvik: Long Reaching Gloves</a> at LOYAL Gallery, Oslo, Norway, November 2021.</p>
 <p><a href="https://www.artforum.com/picks/jacob-jackmauh-and-lina-mcginn-87065" target="_blank" rel="noopener">Jacob Jackmauh and Lina McGinn at Art Lot</a>, Artforum, October 2021</p>
 <p><a href="https://brooklynrail.org/2021/10/art_books/Kristin-Bedfords-Cruise-Night" target="_blank" rel="noopener">Kristin Bedford’s Cruise Night</a>, The Brooklyn Rail, October 2021 (print)</p>
-<p><a href="https://www.artnews.com/art-in-america/aia-reviews/paradox-of-stillness-walker-art-center-1234599083/" target="_blank" rel="noopener">Objects at Rest: "The Paradox of Stillness" at the Walker Art Center</a>, Art In America, July 2021</p>
+<p><a href="https://www.artnews.com/art-in-america/aia-reviews/paradox-of-stillness-walker-art-center-1234599083/" target="_blank" rel="noopener">Objects at Rest: "The Paradox of Stillness" at the Walker Art Center</a>, Art in America, July 2021</p>
 <p><a href="https://brooklynrail.org/2021/04/art_books/Maryanne-Amachers-Selected-Writings-and-Interviews" target="_blank" rel="noopener">Maryanne Amacher’s Selected Writings and Interviews</a>, The Brooklyn Rail, April 2021 (print)</p>
     <p><a href="https://bombmagazine.org/articles/sara-magenheimer/" rel="noopener">Stop Making Sense: Sara Magenheimer Interviewed by Nicole Kaack</a> <i>, BOMB Magazine</i>, April 2020</p>
 <p><a href="https://soundamerican.org/issues/alien/introduction-charles-gainess-librettos" target="_blank" rel="noopener">An Introduction to Charles Gaines's Librettos</a>, Sound American No. 23: The Alien Issue, February 2020 (print)</p>
