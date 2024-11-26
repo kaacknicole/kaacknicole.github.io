@@ -98,7 +98,7 @@ description:
 <h1>Editing + Copywriting</h1>
 <p>Artwork Descriptions and Web Copy, <a href="http://www.jennabassopietrobon.com/" target="_blank" rel="noopener">Jenna Basso Pietrobon</a>, March 2022</p>
 <p><a href="https://www.foundationforcontemporaryarts.org/recipients/?year=2022&page=1" target="_blank" rel="noopener">2022 Grants to Artists Booklet</a> (New York: Foundation for Contemporary Arts, March 2022)</p>
-<p>Twelve Month Crush (New York: Hesse Flatow, January 2020)</p>
+<p><i>Twelve Month Crush</i> (New York: Hesse Flatow, January 2020)</p>
 
 <h1>Publications</h1>
 <p><a href="https://ofmissingout.wordpress.com/" target="_blank" rel="noopener">Of Missing Out</a>, Fall 2017 – ongoing</p>
