@@ -20,9 +20,6 @@ collections:
   Projects:
     output: true
     permalink: /projects/
-  Art:
-    output: true
-    permalink: /art/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
