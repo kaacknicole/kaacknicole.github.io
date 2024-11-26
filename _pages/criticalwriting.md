@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /writing/
-title: Writing + Dialogues
+permalink: /critical writing/
+title: Critical Writing + Dialogues
 description:
 ---
 <h1>Writing</h1>
