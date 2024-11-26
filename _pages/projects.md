@@ -4,11 +4,16 @@ permalink: /projects/
 title: Curatorial
 ---
 <div class="post"><article class="projects">
+<p><a href="[https://kaacknicole.github.io/PDFs/2023_BodyDouble_PR.pdf](https://www.airgallery.org/exhibitions/write-me-letters-you-write-to-me)" target="_blank"><i>"Write me letters" you write to me</i></a>
+A.I.R. Gallery, Brooklyn, NY<br>
+Xavier Cha, Tyler Coburn, beck haberstroh, and Ian Hatcher<br>
+June–August 2023</p>
+  
 <p><a href="https://kaacknicole.github.io/PDFs/2023_BodyDouble_PR.pdf" target="_blank"><i>Body Double</i></a><br>
 An event series exploring presence, virtuality, and transference<br>
 In partnership with <a href="https://dunes.fyi/" target="_blank">Dunes</a>, Portland, ME; <a href="https://miriamgallery.com/exhibition/xavier-cha-audition" target="_blank">Miriam</a>, Brooklyn, NY; <a href="https://www.parentcompany.net/" target="_blank">Parent Company</a>, Brooklyn, NY; and the online curatorial platform <a href="http://screen-space.info/" target="_blank">SCREEN_</a><br>
-Xavier Cha, Tyler Coburn, beck haberstroh, and Ian Hatcher<br>
-June–August 2023</p>
+Nancy Daly, Robin Dintiman, Nicolei Buendia Gupit, Nicole Havekost, Marlana Stoddard Hayes, Olga Hiiva, Gongsan Kim, Katherine Tzu-Lan Mann, Jennifer McCandless, Courtney Desiree Morris, Allison Paschke, Cozette Russell, Carrie Scanga, Martha Sedgwick, Rebecca Weisman, Ellyn Weiss, Holly Wong, Joo Yeon Woo, Alice Pixley Young<br>
+June 28—July 28, 2024</p>
   
 <p><a href="https://kaacknicole.github.io/PDFs/Miriam_Exhibition Info_2021.pdf" target="_blank"><i>There was earth in them, and they dug.</i></a><br>
 Miriam Gallery, Brooklyn, NY<br>
