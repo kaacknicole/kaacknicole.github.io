@@ -34,7 +34,7 @@ description:
 <p><a href="http://www.smalleditionsnyc.com/publications/enveloped/">Enveloped</a>, exhibition catalog, Small Editions, September 2017</p>
 <p><a href="http://www.smalleditionsnyc.com/publications/paperless/">Paperless</a>, exhibition catalog, Small Editions, August 2017</p>
 <p><a href="https://www.artforum.com/picks/id=69917" target="_blank" rel="noopener">Sable Elyse Smith</a>, <i>Artforum</i>, July 2017</p>
-<p><a href="http://www.lubov.nyc/exhibitions/2017_07_ruhl/2017_07_ruhl.html">Press Release: <i>Amy Ruhl:</i></a><em><a href="http://www.lubov.nyc/exhibitions/2017_07_ruhl/2017_07_ruhl.html" target="_blank" rel="noopener">Between Tin Men: Gifts and Souvenirs</a>,&nbsp;</em>Lubov, NY, July 2017</p>
+<p>Press Release: <i>Amy Ruhl: Between Tin Men: Gifts and Souvenirs</i>, Lubov, NY, July 2017</p>
 <p><a href="https://www.artforum.com/picks/id=68937" target="_blank" rel="noopener">Ellen Berkenblit</a>, <i>Artforum</i>, June 2017</p>
 <p><a href="https://www.artforum.com/picks/id=68796" target="_blank" rel="noopener">Maren Karlson</a>, <i>Artforum</i>, June 2017</p>
 <p><a href="https://www.artforum.com/picks/id=67039" target="_blank" rel="noopener">A. K. Burns</a>, <i>Artforum</i>, March 2017</p>
