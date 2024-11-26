@@ -4,7 +4,7 @@ permalink: /critical writing/
 title: Writing
 description:
 ---
-<h1>Writing</h1>
+<h2>Writing</h2>
 
 <div class="post">
 <p>Jean Pierre Villafañe, <i>Art in America</i>, November 2024 (print)</p> 
@@ -71,7 +71,7 @@ description:
 <p><a href="http://www.artcritical.com/2016/04/23/nicole-kaack-on-samara-golden/" target="_blank" rel="noopener">Little Boxes: Samara Golden at Yerba Buena</a>, <i>artcritical</i>, April 2016</p>
 <p><a href="http://www.artcritical.com/2016/04/16/nicole-kaack-on-andrea-fraser/" target="_blank" rel="noopener">Unbridgeable Gap: Andrea Fraser Brings Sing Sing to the Whitney</a>, <i>artcritical</i>, April 2016</p>
 
-<h1>Dialogues</h1>
+<h2>Dialogues</h2>
 <p>Maho Donowaki, Hilary Doyle, Alicia Smith, HESSE FLATOW, NY, March 2021</p>
 <p>Eliot Greenwald, Tammy Nguyen, and Sistership TV (Katherine Kline, Emily Pelstring, Jessica Mensch), HESSE FLATOW, NY, March 2021</p>
 <p>Joseph Buckley, Clark Filio, Nat Meade, and Astrid Terrazas, HESSE FLATOW, NY, March 2021</p>
@@ -95,14 +95,8 @@ description:
 <p><a href="http://www.crush-curatorial.com/conversations/bill-komoski-lauren-silva/" target="_blank" rel="noopener">Bill Komoski / Lauren Silva / Dona Nelson</a>, CRUSHCURATORIAL, October 2018</p>
     
     
-<h1>Editing + Copywriting</h1>
-<p>Artwork Descriptions and Web Copy, <a href="http://www.jennabassopietrobon.com/" target="_blank" rel="noopener">Jenna Basso Pietrobon</a>, March 2022</p>
-<p><a href="https://www.foundationforcontemporaryarts.org/recipients/?year=2022&page=1" target="_blank" rel="noopener">2022 Grants to Artists Booklet</a> (New York: Foundation for Contemporary Arts, March 2022)</p>
-<p><i>Twelve Month Crush</i> (New York: Hesse Flatow, January 2020)</p>
-
-<h1>Publications</h1>
-<p><a href="https://ofmissingout.wordpress.com/" target="_blank" rel="noopener">Of Missing Out</a>, Fall 2017 – ongoing</p>
-<p><a href="http://cargocollective.com/promptcolon" target="_blank">prompt:</a>, Spring 2018 – ongoing</p>
-<p><a href="http://notnothing.ooo/" target="_blank">Not Nothing</a>, Fall 2018 – ongoing</p>
-
+<h2>Copy Editing + Copy Writing</h2>
+<p>Artwork descriptions and web copy, <a href="http://www.jennabassopietrobon.com/" target="_blank" rel="noopener">Jenna Basso Pietrobon</a>, March 2022</p>
+<p>Copy editing and proofreading, <a href="https://www.foundationforcontemporaryarts.org/recipients/?year=2022&page=1" target="_blank" rel="noopener">2022 Grants to Artists Booklet</a> (New York: Foundation for Contemporary Arts, March 2022)</p>
+<p>Introduction and proofreading, <i>Twelve Month Crush</i> (New York: Hesse Flatow, January 2020)</p>
   </article></div>
