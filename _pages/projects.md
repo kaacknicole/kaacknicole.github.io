@@ -20,7 +20,7 @@ Miriam Gallery, Brooklyn, NY<br>
 Colleen Billing, Clare Koury, Alexandra Neuman, Umico Niwa<br>
 June 10–August 8, 2021</p>
 
-<p><a href="https://hesseflatow.com/exhibitions/44-the-symbolists-les-fleurs-du-mal/overview/" target="_blank"><i>THE SYMBOLISTS: LES FLEURS DU MAL</i></a><br>
+<p><a href="https://hesseflatow.com/exhibitions/44-the-symbolists-les-fleurs-du-mal/overview/" target="_blank"><i>The Symbolists: Les Fleurs du Mal</i></a><br>
 HESSE FLATOW, New York, NY<br>
 Curated by Karen Hesse Flatow and Nicole Kaack<br>
 Alicia Adamerovich, Joseph Buckley, Maho Donowaki, Hilary Doyle, Clark Filio, Caroline Garcia, Eliot Greenwald, Exene Karros, Nat Meade, Tammy Nguyen, Louis Osmosis, Georgica Pettus, Johanna Robinson, Sistership TV, Alicia Smith, Astrid Terrazas<br>
