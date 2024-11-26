@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /critical writing/
-title: Critical Writing + Dialogues
+title: Writing
 description:
 ---
 <h1>Writing</h1>
