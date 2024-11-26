@@ -36,6 +36,7 @@ January 28, 2020–February 1,2020</p>
 Hunter College, New York, NY<br>
 Hannah Beerman, Brian Yihurn Byun, Elizabeth Harney, Emily Janowick, Judy Koo, Jessica Mensch, Patrick Carlin Mohundro, Andy Ralph, Jordan Stohl<br>
 December 12, 2019–January 6,2020</p>
+
 <p><a href="https://kaacknicole.github.io/PDFs/2019_NARS_BatAmiRivlin_ItAllTrembles.pdf" target="_blank"><i>Bat-Ami Rivlin: It All Trembles</i></a><br>
 NARS Foundation, Brooklyn, NY<br>
 May 3–22, 2019</p>
@@ -64,7 +65,6 @@ June 28–August 6, 2018</p>
 <p><a href="https://kaacknicole.github.io/PDFs/2018_ReFramed_ExhibitionInfo.pdf" target="_blank"><i>Re:Framed</i></a><br>
 (Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:)<br>
 Curated by Jane Cavalier and Nicole Kaack<br>
-  
 Re: Art Show, Brooklyn, NY<br>
 Dana Buhl, Emmy Catedral, Golnaz Esmaili, Curtis Glenn, Jibade-Khalil Huffman, Tomashi Jackson, E.M. Joseph, Simone Kearney, Martha Naranjo Sandoval, Elise Peterson, Constance Tenvik<br>
 January 20–February 10, 2018</p>
