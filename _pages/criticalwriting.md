@@ -93,10 +93,5 @@ description:
 <p><a href="http://www.crush-curatorial.com/conversations/taro-suzuki-mary-heilmann-friends" target="_blank" rel="noopener">Taro Suzuki / Mary Heilmann / Friends</a>, CRUSHCURATORIAL, December 2018</p>
 <p><a href="http://www.crush-curatorial.com/conversations/charlotte-hallberg-peter-halley" target="_blank" rel="noopener">Charlotte Hallberg / Peter Halley</a>, CRUSHCURATORIAL, November 2018</p>
 <p><a href="http://www.crush-curatorial.com/conversations/bill-komoski-lauren-silva/" target="_blank" rel="noopener">Bill Komoski / Lauren Silva / Dona Nelson</a>, CRUSHCURATORIAL, October 2018</p>
-    
-    
-<h2>Copy Editing + Copy Writing</h2>
-<p>Artwork descriptions and web copy, <a href="http://www.jennabassopietrobon.com/" target="_blank" rel="noopener">Jenna Basso Pietrobon</a>, March 2022</p>
-<p>Copy editing and proofreading, <a href="https://www.foundationforcontemporaryarts.org/recipients/?year=2022&page=1" target="_blank" rel="noopener">2022 Grants to Artists Booklet</a> (New York: Foundation for Contemporary Arts, March 2022)</p>
-<p>Introduction and proofreading, <i>Twelve Month Crush</i> (New York: Hesse Flatow, January 2020)</p>
+   
   </article></div>
