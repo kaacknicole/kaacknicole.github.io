@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /projects/
-title: Curatorial Projects
+title: Curatorial
 ---
 <div class="post"><article class="projects">
 <p><a href="https://kaacknicole.github.io/PDFs/2023_BodyDouble_PR.pdf" target="_blank"><i>Body Double</i></a><br>
