@@ -30,11 +30,11 @@ description:
 <p><a href="https://www.artforum.com/picks/several-years-have-passed-74968" target="_blank" rel="noopener">“Several Years Have Passed,”</a> <i>Artforum</i>, April 2018</p>
 <p><a href="https://www.artforum.com/picks/deana-lawson-74623" target="_blank" rel="noopener">Deana Lawson</a>, <i>Artforum</i>, March 2018</p>
 <p><a href="http://www.smalleditionsnyc.com/publications/wordless/">Wordless</a>,&nbsp;exhibition catalog, Small Editions, November 2017</p>
-<p><a href="http://artviewer.org/screen-wild-coast-wild-coast-by-boru-obrien-oconnell/" target="_blank" rel="noopener">I can be a brushstroke</a>, <i>Art Viewer</i>, November 2017. Also published in<i>I will set a stage for you</i>, eds. Ana Iwataki and Marion Vasseur Raluy (Paris: Holoholo, April 2018).</p>
+<p><a href="http://artviewer.org/screen-wild-coast-wild-coast-by-boru-obrien-oconnell/" target="_blank" rel="noopener">I can be a brushstroke</a>, <i>Art Viewer</i>, November 2017. Also published in <i>I will set a stage for you</i>, eds. Ana Iwataki and Marion Vasseur Raluy (Paris: Holoholo, April 2018).</p>
 <p><a href="http://www.smalleditionsnyc.com/publications/enveloped/">Enveloped</a>, exhibition catalog, Small Editions, September 2017</p>
 <p><a href="http://www.smalleditionsnyc.com/publications/paperless/">Paperless</a>, exhibition catalog, Small Editions, August 2017</p>
 <p><a href="https://www.artforum.com/picks/id=69917" target="_blank" rel="noopener">Sable Elyse Smith</a>, <i>Artforum</i>, July 2017</p>
-<p><a href="http://www.lubov.nyc/exhibitions/2017_07_ruhl/2017_07_ruhl.html">Press Release: Amy Ruhl:&nbsp;</a><em><a href="http://www.lubov.nyc/exhibitions/2017_07_ruhl/2017_07_ruhl.html" target="_blank" rel="noopener">Between Tin Men: Gifts and Souvenirs</a>,&nbsp;</em>Lubov, NY, July 2017</p>
+<p><a href="http://www.lubov.nyc/exhibitions/2017_07_ruhl/2017_07_ruhl.html">Press Release: <i>Amy Ruhl:</i></a><em><a href="http://www.lubov.nyc/exhibitions/2017_07_ruhl/2017_07_ruhl.html" target="_blank" rel="noopener">Between Tin Men: Gifts and Souvenirs</a>,&nbsp;</em>Lubov, NY, July 2017</p>
 <p><a href="https://www.artforum.com/picks/id=68937" target="_blank" rel="noopener">Ellen Berkenblit</a>, <i>Artforum</i>, June 2017</p>
 <p><a href="https://www.artforum.com/picks/id=68796" target="_blank" rel="noopener">Maren Karlson</a>, <i>Artforum</i>, June 2017</p>
 <p><a href="https://www.artforum.com/picks/id=67039" target="_blank" rel="noopener">A. K. Burns</a>, <i>Artforum</i>, March 2017</p>
