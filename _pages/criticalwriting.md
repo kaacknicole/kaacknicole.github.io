@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /critical writing/
+permalink: /criticalwriting/
 title: Writing
 description:
 ---
