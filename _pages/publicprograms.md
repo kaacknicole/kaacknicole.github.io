@@ -16,7 +16,7 @@ description:
 <p><a href="https://vimeo.com/335225230" target="_blank" rel="noopener">The Kitchen LAB: Keren Cytter, Lydia Goehr, and Marina Rosenfeld</a>, The Kitchen, March 2019</p>
 <p><a href="https://vimeo.com/314358108" target="_blank" rel="noopener">The Kitchen LAB: Lex Brown, L’Rain, and Benjamin Krusling</a>, The Kitchen, January 2019</p>
 <p><a href="https://vimeo.com/309339499" target="_blank" rel="noopener">The Kitchen LAB: Fia Backstrom, A.K. Burns, and Christopher K. Ho</a>, The Kitchen, December 2018</p>
-<p><a href="http://thekitchen.org/event/the-kitchen-l-a-b-november-5-2018" target="_blank" rel="noopener">The Kitchen LAB: Tyler Coburn, Devin N. Morris, and Precious Okoyomon</a>, The Kitchen, November 2018</p>
+<p>The Kitchen LAB: Tyler Coburn, Devin N. Morris, and Precious Okoyomon, The Kitchen, November 2018</p>
 <p><a href="https://vimeo.com/306042945" target="_blank" rel="noopener">The Kitchen LAB: Eli Keszler, Ajay Kurian, and Alexandra Tatarsky</a>, The Kitchen, October 2018</p>
 <p>Gabriela Vainsencher and Brittany Nelson, CRUSHCURATORIAL, June 2018</p>
 <p>Caroline Wells Chandler, Jennifer Coates, David Humphries, and Angela Dufresne, CRUSHCURATORIAL, June 2018</p>
