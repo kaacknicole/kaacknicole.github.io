@@ -25,6 +25,6 @@ description:
 <p><a href="http://www.crush-curatorial.com/lauren-faigeles-with-james-siena" target="_blank" rel="noopener">Lauren Faigeles and James Siena</a>, CRUSHCURATORIAL, March 2018</p>
 <p><a href="http://www.crush-curatorial.com/johannes-deyoungsam-messer" target="_blank" rel="noopener">Johannes DeYoung and Natalie Westbrook</a>, CRUSHCURATORIAL, January 2018</p>
 <p><a href="http://www.crush-curatorial.com/conversations/taro-suzuki-mary-heilmann-friends" target="_blank" rel="noopener">Taro Suzuki, Mary Heilmann, and Friends</a>, CRUSHCURATORIAL, December 2018</p>
-<p><a href="http://www.crush-curatorial.com/conversations/charlotte-hallberg-peter-halley" target="_blank" rel="noopener">Charlotte Hallberg / Peter Halley</a>, CRUSHCURATORIAL, November 2018</p>
+<p><a href="http://www.crush-curatorial.com/conversations/charlotte-hallberg-peter-halley" target="_blank" rel="noopener">Charlotte Hallberg and Peter Halley</a>, CRUSHCURATORIAL, November 2018</p>
 <p><a href="http://www.crush-curatorial.com/conversations/bill-komoski-lauren-silva/" target="_blank" rel="noopener">Bill Komoski, Lauren Silva, and Dona Nelson</a>, CRUSHCURATORIAL, October 2018</p>
 </div>
