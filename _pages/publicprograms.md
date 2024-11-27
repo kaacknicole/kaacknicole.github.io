@@ -18,13 +18,13 @@ description:
 <p><a href="https://vimeo.com/309339499" target="_blank" rel="noopener">The Kitchen LAB: Fia Backstrom, A.K. Burns, and Christopher K. Ho</a>, The Kitchen, December 2018</p>
 <p><a href="http://thekitchen.org/event/the-kitchen-l-a-b-november-5-2018" target="_blank" rel="noopener">The Kitchen LAB: Tyler Coburn, Devin N. Morris, and Precious Okoyomon</a>, The Kitchen, November 2018</p>
 <p><a href="https://vimeo.com/306042945" target="_blank" rel="noopener">The Kitchen LAB: Eli Keszler, Ajay Kurian, and Alexandra Tatarsky</a>, The Kitchen, October 2018</p>
-<p><a href="http://www.crush-curatorial.com/gabriela-vainsencher-brittany-nelson" target="_blank" rel="noopener">Gabriela Vainsencher and Brittany Nelson</a>, CRUSHCURATORIAL, June 2018</p>
-<p><a href="http://www.crush-curatorial.com/caroline-wells-chandler-jennifer-coates-david-humphrey-angela-dufresne" target="_blank" rel="noopener">Caroline Wells Chandler, Jennifer Coates, David Humphries, and Angela Dufresne</a>, CRUSHCURATORIAL, June 2018</p>
-<p><a href="http://www.crush-curatorial.com/virginia-lee-montgomery-1" target="_blank" rel="noopener">Virginia Lee Montgomery</a>, CRUSHCURATORIAL, May 2018</p>
-<p><a href="http://www.crush-curatorial.com/aglae-bassens-eric-oglander" target="_blank" rel="noopener">Aglaé Bassens and Eric Oglander</a>, CRUSHCURATORIAL, April 2018</p>
-<p><a href="http://www.crush-curatorial.com/lauren-faigeles-with-james-siena" target="_blank" rel="noopener">Lauren Faigeles and James Siena</a>, CRUSHCURATORIAL, March 2018</p>
-<p><a href="http://www.crush-curatorial.com/johannes-deyoungsam-messer" target="_blank" rel="noopener">Johannes DeYoung and Natalie Westbrook</a>, CRUSHCURATORIAL, January 2018</p>
-<p><a href="http://www.crush-curatorial.com/conversations/taro-suzuki-mary-heilmann-friends" target="_blank" rel="noopener">Taro Suzuki, Mary Heilmann, and Friends</a>, CRUSHCURATORIAL, December 2018</p>
-<p><a href="http://www.crush-curatorial.com/conversations/charlotte-hallberg-peter-halley" target="_blank" rel="noopener">Charlotte Hallberg and Peter Halley</a>, CRUSHCURATORIAL, November 2018</p>
-<p><a href="http://www.crush-curatorial.com/conversations/bill-komoski-lauren-silva/" target="_blank" rel="noopener">Bill Komoski, Lauren Silva, and Dona Nelson</a>, CRUSHCURATORIAL, October 2018</p>
+<p>Gabriela Vainsencher and Brittany Nelson, CRUSHCURATORIAL, June 2018</p>
+<p>Caroline Wells Chandler, Jennifer Coates, David Humphries, and Angela Dufresne, CRUSHCURATORIAL, June 2018</p>
+<p>Virginia Lee Montgomery, CRUSHCURATORIAL, May 2018</p>
+<p>Aglaé Bassens and Eric Oglander, CRUSHCURATORIAL, April 2018</p>
+<p>Lauren Faigeles and James Siena, CRUSHCURATORIAL, March 2018</p>
+<p>Johannes DeYoung and Natalie Westbrook, CRUSHCURATORIAL, January 2018</p>
+<p>Taro Suzuki, Mary Heilmann, and Friends, CRUSHCURATORIAL, December 2018</p>
+<p>Charlotte Hallberg and Peter Halley, CRUSHCURATORIAL, November 2018</p>
+<p>Bill Komoski, Lauren Silva, and Dona Nelson, CRUSHCURATORIAL, October 2018</p>
 </div>
