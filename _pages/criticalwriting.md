@@ -5,7 +5,7 @@ title: Writing
 description:
 ---
 <div class="post">
- <h1>2024</h1><br>
+2024><br>
 <p>Jean Pierre Villafañe, <i>Art in America</i>, November 2024 (print)</p> 
  <p><a href="https://brooklynrail.org/2024/07/art_books/Pia-Camils-Friendly-Fires/" target="_blank" rel="noopener">Pia Camil's <i>Friendly Fires</i></a>, <i>Brooklyn Rail</i>, July/August 2024</p>
 <br><h1>2022</h1><br>
