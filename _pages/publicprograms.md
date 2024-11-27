@@ -13,7 +13,7 @@ description:
 <p><a href="https://hesseflatow.com/viewing-room/6-virginia-lee-montgomery-in-conversation-with-nicole-kaack/">Virginia Lee Montgomery in conversation with Nicole Kaack</a>, HESSE FLATOW, 2020</p>
 <p><a href="https://vimeo.com/338065446" target="_blank" rel="noopener">The Kitchen LAB: Jerriod Avant, Alex Fialho, Steffani Jemison, and Jill Magid</a>, Emily Harvey Foundation, May 2019</p>
 <p><a href="https://vimeo.com/336127384" target="_blank" rel="noopener">The Kitchen LAB: Paolo Javier and Amirtha Kidambi</a>, The Kitchen, April 2019</p>
-<p><a href="https://vimeo.com/335225230" target="_blank" rel="noopener">The Kitchen LAB: Keren Cytter, Lydia Goehr, and Marina Rosenfeld</a>, The Kitchen, March 2018</p>
+<p><a href="https://vimeo.com/335225230" target="_blank" rel="noopener">The Kitchen LAB: Keren Cytter, Lydia Goehr, and Marina Rosenfeld</a>, The Kitchen, March 2019</p>
 <p><a href="https://vimeo.com/314358108" target="_blank" rel="noopener">The Kitchen LAB: Lex Brown, L’Rain, and Benjamin Krusling</a>, The Kitchen, January 2019</p>
 <p><a href="https://vimeo.com/309339499" target="_blank" rel="noopener">The Kitchen LAB: Fia Backstrom, A.K. Burns, and Christopher K. Ho</a>, The Kitchen, December 2018</p>
 <p><a href="http://thekitchen.org/event/the-kitchen-l-a-b-november-5-2018" target="_blank" rel="noopener">The Kitchen LAB: Tyler Coburn, Devin N. Morris, and Precious Okoyomon</a>, The Kitchen, November 2018</p>
