@@ -77,8 +77,8 @@ $text-color:        $black;
 $background-color:  white;
 
 // Links
-$link-color:        $theme-color;
-$link-hover-color:  darken($theme-color, 40%);
+$link-color:        $grey-color;
+$link-hover-color:  $lighter-gray;
 
 // Breakpoints
 $breakpoint-md: '(min-width: 52em)';
