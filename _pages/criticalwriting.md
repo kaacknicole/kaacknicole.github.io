@@ -8,7 +8,7 @@ description:
 2024<br>
 <p>Jean Pierre Villafañe, <i>Art in America</i>, November 2024 (print)</p> 
  <p><a href="https://brooklynrail.org/2024/07/art_books/Pia-Camils-Friendly-Fires/" target="_blank" rel="noopener">Pia Camil's <i>Friendly Fires</i></a>, <i>Brooklyn Rail</i>, July/August 2024</p>
-<br><h1>2022</h1><br>
+<br><h3>2022</h3><br>
 <p><a href="https://www.artnews.com/art-in-america/features/enunciation-escape-rawls-ellis-1234632227/" target="_blank" rel="noopener">On Enunciation and Escape</a>, <i>Art in America</i>, June 2022</p>
 <p><a href="https://www.artnews.com/art-in-america/features/astrid-terrazas-1234627923/" target="_blank" rel="noopener">Astrid Terrazas Paints Fantasy, Folklore, and Family Into Enigmatic Scenes</a>, <i>Art in America</i>, May 2022 (print)</p>
  <p>Leandro Katz’s <i>Self Hipnosis</i>, <i>Book Art Review</i>, 2022 (print)</p>
