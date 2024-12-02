@@ -32,10 +32,10 @@ Chang Yuchen, Paige Landesberg, and Shanzhai Lyric<br>
 January 28, 2020–February 1,2020</p>
   
 <p><a href="https://kaacknicole.github.io/PDFs/2019_laissezfaire_HUNTER_lo.pdf" target="_blank" rel="noopener"><i><strike>laissez faire et laissez passer</strike></i></a><br>
-<a href="https://kaacknicole.github.io/PDFs/2019_Hunter_G2_Zine_FINAL.pdf" target="_blank" rel="noopener">Exhibition Zine</a><br>
 Hunter College, New York, NY<br>
 Hannah Beerman, Brian Yihurn Byun, Elizabeth Harney, Emily Janowick, Judy Koo, Jessica Mensch, Patrick Carlin Mohundro, Andy Ralph, and Jordan Stohl<br>
-December 12, 2019–January 6,2020</p>
+December 12, 2019–January 6, 2020</p>
+<a href="https://kaacknicole.github.io/PDFs/2019_Hunter_G2_Zine_FINAL.pdf" target="_blank" rel="noopener">Exhibition Zine</a><br>
 
 <p><a href="https://kaacknicole.github.io/PDFs/2019_NARS_BatAmiRivlin_ItAllTrembles.pdf" target="_blank" rel="noopener"><i>Bat-Ami Rivlin: It All Trembles</i></a><br>
 NARS Foundation, Brooklyn, NY<br>
@@ -63,7 +63,6 @@ June 28–August 6, 2018</p>
 <div></div>
   
 <p><a href="https://kaacknicole.github.io/PDFs/2018_ReFramed_ExhibitionInfo.pdf" target="_blank" rel="noopener"><i>Re:Framed</i></a><br>
-(Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:Re:)<br>
 Curated by Jane Cavalier and Nicole Kaack<br>
 Re: Art Show, Brooklyn, NY<br>
 Dana Buhl, Emmy Catedral, Golnaz Esmaili, Curtis Glenn, Jibade-Khalil Huffman, Tomashi Jackson, E.M. Joseph, Simone Kearney, Martha Naranjo Sandoval, Elise Peterson, and Constance Tenvik<br>
@@ -72,7 +71,7 @@ January 20–February 10, 2018</p>
 <p><a href="https://kaacknicole.github.io/PDFs/2017_Wordless_ExhibitionInfo.pdf" target="_blank" rel="noopener"><i>Wordless</i></a><br>
 Small Editions, Brooklyn, NY<br>
 Rosaire Appel, Zipora Fried, and Renee Gladman<br>
-with a workshop hosted by Katie Giritlian of Conch Shell<br>
+with a Conch Shell workshop hosted by Katie Giritlian<br>
 November 18–December 31, 2017</p>
   
 <p><a href="https://kaacknicole.github.io/PDFs/2017_Enveloped_ExhibitionInfo.pdf" target="_blank" rel="noopener"><i>Enveloped</i></a><br>
