@@ -4,7 +4,7 @@ permalink: /editing/
 title: Editing + Copywriting
 description:
 ---
-<p><b>Copywriting:</b> I craft engaging narratives for artists and institutions, transforming their vision into captivating press releases, artist statements, and institutional content.</p>  
+<p>Copywriting: I craft engaging narratives for artists and institutions, transforming their vision into captivating press releases, artist statements, and institutional content.</p>  
 
 <p style="margin-left: 25px;">Artist statement and artwork descriptions, <a href="http://www.jennabassopietrobon.com/" target="_blank" rel="noopener">Jenna Basso Pietrobon</a>, March 2022</p>
 <p style="margin-left: 25px;">Press release, <a href="https://www.loyalgallery.com/exhibitions/long-reaching-gloves/" target="_blank" rel="noopener">Constance Tenvik: <i>Long Reaching Gloves</i></a> at LOYAL Gallery, Oslo, Norway, November 2021.</p>
@@ -12,7 +12,7 @@ description:
 
 <br>
 
-<p><b>Editing:</b> I refine and enhance existing texts, ensuring clarity, coherence, and a seamless reading experience that resonates with audiences.</p>
+<p>Editing: I refine and enhance existing texts, ensuring clarity, coherence, and a seamless reading experience that resonates with audiences.</p>
 <p style="margin-left: 25px;">Re: Collection editorial series, Institute for Studies on Latin American Art (ISLAA), September 2022–July 2024. Re: Collection invites a range of historians, curators, and artists to respond to the artworks in ISLAA's collection through approachable texts. I edited essays by 
 <a href="https://islaa.org/explore/editorial-abreu-grobet" target="_blank" rel="noopener">manuel arturo abreu</a>,
 <a href="https://islaa.org/explore/editorial_burckhardt-palau" target="_blank" rel="noopener">Anna Burckhardt Pérez</a>,
@@ -42,7 +42,7 @@ description:
 
 <br>
 
-<p><b>Publication Project Management:</b> From concept to completion, I oversee every aspect of editorial and project management, delivering beautifully designed, expertly produced, and effectively promoted publications.</p>
+<p>Publication Project Management: From concept to completion, I oversee every aspect of editorial and project management, delivering beautifully designed, expertly produced, and effectively promoted publications.</p>
 
 <p style="margin-left: 25px;"><a href="https://islaa.org/bookshop/buen-diseno-para-la-industria" target="_blank" rel="noopener"><i>buen diseño para la industria</i></a>, Institute for Studies on Latin American Art, April 2024</p>
 
