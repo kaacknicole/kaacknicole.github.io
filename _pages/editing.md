@@ -7,12 +7,37 @@ description:
 <p><b>Copywriting:</b> I craft engaging narratives for artists and institutions, transforming their vision into captivating press releases, artist statements, and institutional content.</p>  
 
 <p style="margin-left: 25px;">Artist statement and artwork descriptions, <a href="http://www.jennabassopietrobon.com/" target="_blank" rel="noopener">Jenna Basso Pietrobon</a>, March 2022</p>
-<p style="margin-left: 25px;">Press Release, <a href="https://www.loyalgallery.com/exhibitions/long-reaching-gloves/" target="_blank" rel="noopener">Constance Tenvik: <i>Long Reaching Gloves</i></a> at LOYAL Gallery, Oslo, Norway, November 2021.</p>
-<p style="margin-left: 25px;">Press Release, Amy Ruhl: <i>Between Tin Men: Gifts and Souvenirs</i>, Lubov, NY, July 2017</p>
+<p style="margin-left: 25px;">Press release, <a href="https://www.loyalgallery.com/exhibitions/long-reaching-gloves/" target="_blank" rel="noopener">Constance Tenvik: <i>Long Reaching Gloves</i></a> at LOYAL Gallery, Oslo, Norway, November 2021.</p>
+<p style="margin-left: 25px;">Press release, Amy Ruhl: <i>Between Tin Men: Gifts and Souvenirs</i>, Lubov, NY, July 2017</p>
 
 <br>
 
 <p><b>Editing:</b> I refine and enhance existing texts, ensuring clarity, coherence, and a seamless reading experience that resonates with audiences.</p>
+<p style="margin-left: 25px;">Re:Collection editorial series, Institute for Studies on Latin American Art (ISLAA), September 2022–July 2024. Re: Collection invites a range of historians, curators, and artists to respond to the artworks in ISLAA's collection through approachable texts. I edited essays by 
+<a href="https://islaa.org/explore/editorial-abreu-grobet" target="_blank" rel="noopener">manuel arturo abreu</a>,
+<a href="https://islaa.org/explore/editorial_burckhardt-palau" target="_blank" rel="noopener">Anna Burckhardt Pérez</a>,
+<a href="https://islaa.org/explore/editorial_cruz-vicuna" target="_blank" rel="noopener">Lizania Cruz</a>,
+<a href="https://islaa.org/explore/a-dance-of-bodies-and-machines-leopoldo-malers-crane" target="_blank" rel="noopener">Agustín Díez Fischer</a>,
+<a href="https://islaa.org/explore/toward-a-poetics-of-multiplicity--on-juan-carlos-romeros" target="_blank" rel="noopener">Mariana Fernández</a>,
+<a href="https://islaa.org/explore/garments-knots-and-high-tide-three-poems" target="_blank" rel="noopener">Wingston González</a>,
+<a href="https://islaa.org/explore/editorial-guerrero-gimenez" target="_blank" rel="noopener">Gonzalo Guerrero</a>,
+<a href="https://islaa.org/explore/editorial_montes-centurion" target="_blank" rel="noopener">Lara Mimosa Montes</a>,
+<a href="https://islaa.org/explore/editorial_salgado-mayer" target="_blank" rel="noopener">Angelique Rosales Salgado</a>,
+<a href="https://islaa.org/explore/editorial_ruiz-escombros" target="_blank" rel="noopener">Alan Ruiz</a>,
+<a href="https://islaa.org/explore/in-plane-sight" target="_blank" rel="noopener">Amanda Schmitt</a>,
+<a href="https://islaa.org/explore/editorial_tejada-graphicdesign" target="_blank" rel="noopener">Ramon Tejada</a>, and
+<a href="https://islaa.org/explore/editorial_woukalmino-lara" target="_blank" rel="noopener">Elisa Wouk Almino</a>.
+
+
+
+
+
+
+
+
+
+
+
 <p style="margin-left: 25px;"><a href="https://www.foundationforcontemporaryarts.org/recipients/?year=2022&page=1" target="_blank" rel="noopener">2022 Grants to Artists Booklet</a>, Foundation for Contemporary Arts, March 2022</p>
 
 <br>
