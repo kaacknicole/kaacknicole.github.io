@@ -13,7 +13,7 @@ description:
 <br>
 
 <p><b>Editing:</b> I refine and enhance existing texts, ensuring clarity, coherence, and a seamless reading experience that resonates with audiences.</p>
-<p style="margin-left: 25px;">Re:Collection editorial series, Institute for Studies on Latin American Art (ISLAA), September 2022–July 2024. Re: Collection invites a range of historians, curators, and artists to respond to the artworks in ISLAA's collection through approachable texts. I edited essays by 
+<p style="margin-left: 25px;">Re: Collection editorial series, Institute for Studies on Latin American Art (ISLAA), September 2022–July 2024. Re: Collection invites a range of historians, curators, and artists to respond to the artworks in ISLAA's collection through approachable texts. I edited essays by 
 <a href="https://islaa.org/explore/editorial-abreu-grobet" target="_blank" rel="noopener">manuel arturo abreu</a>,
 <a href="https://islaa.org/explore/editorial_burckhardt-palau" target="_blank" rel="noopener">Anna Burckhardt Pérez</a>,
 <a href="https://islaa.org/explore/editorial_cruz-vicuna" target="_blank" rel="noopener">Lizania Cruz</a>,
