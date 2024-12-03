@@ -19,7 +19,7 @@ description:
 
 <br>
 
-<p style="margin-left: 25px;"><b>Publication Project Management</b></p>
+<p><b>Publication Project Management</b></p>
 <p>From concept to completion, I oversee every aspect of editorial and project management, delivering beautifully designed, expertly produced, and effectively promoted publications.</p>
 
 <p style="margin-left: 25px;"><a href="https://islaa.org/bookshop/buen-diseno-para-la-industria" target="_blank" rel="noopener"><i>buen diseño para la industria</i></a>, Institute for Studies on Latin American Art, April 2024</p>
