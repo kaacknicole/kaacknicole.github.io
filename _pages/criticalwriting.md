@@ -18,7 +18,6 @@ description:
 <p>"Pedestrian Secrets of the Universe," <a href="https://daylightbooks.org/products/prophetic-kingdom" target="_blank" rel="noopener"><i>Martin Buday: Prophetic Kingdom</i></a> (Daylight Books, 2021)</p>
 <p>Contributed to: <a href="https://brooklynrail.org/2021/12/art_books/Best-Of-2021" target="_blank" rel="noopener">20 Best Art Books of 2021</a>, <i>Brooklyn Rail</i>, December 2021</p>
 <p><a href="https://www.artnews.com/art-in-america/aia-reviews/robert-ashley-roulette-1234610902/" target="_blank" rel="noopener">"Replies Confidential: Robert Ashley at Roulette,"</a> <i>Art in America</i>, November 2021</p>
- <p>Press Release: <a href="https://www.loyalgallery.com/exhibitions/long-reaching-gloves/" target="_blank" rel="noopener">Constance Tenvik: <i>Long Reaching Gloves</i></a> at LOYAL Gallery, Oslo, Norway, November 2021.</p>
 <p><a href="https://www.artforum.com/picks/jacob-jackmauh-and-lina-mcginn-87065" target="_blank" rel="noopener">"Jacob Jackmauh and Lina McGinn at Art Lot,"</a> <i>Artforum</i>, October 2021</p>
 <p><a href="https://brooklynrail.org/2021/10/art_books/Kristin-Bedfords-Cruise-Night" target="_blank" rel="noopener">"Kristin Bedford’s <i>Cruise Night</i>,"</a> <i>The Brooklyn Rail</i>, October 2021 (print)</p>
 <p><a href="https://www.artnews.com/art-in-america/aia-reviews/paradox-of-stillness-walker-art-center-1234599083/" target="_blank" rel="noopener">"Objects at Rest: <i>The Paradox of Stillness</i> at the Walker Art Center,"</a> <i>Art in America</i>, July 2021</p>
@@ -39,7 +38,6 @@ description:
 <p><i>Enveloped</i>, (Brooklyn, NY: Small Editions, September 2017)</p>
 <p><i>Paperless</i>, (Brooklyn, NY: Small Editions, August 2017)</p>
 <p>"Sable Elyse Smith," <i>Artforum</i>, July 2017</p>
-<p>Press Release: Amy Ruhl: <i>Between Tin Men: Gifts and Souvenirs</i>, Lubov, NY, July 2017</p>
 <p>"Ellen Berkenblit," <i>Artforum</i>, June 2017</p>
 <p>"Maren Karlson," <i>Artforum</i>, June 2017</p>
 <p>"A.K. Burns," <i>Artforum</i>, March 2017</p>
