@@ -7,7 +7,7 @@ description:
 <div class="post">
 <p>Exhibition talks for <i>The Symbolists: Les Fleurs du Mal</i>, HESSE FLATOW, New York, 2021. In tandem with the group exhibition <i>The Symbolists: Les Fleurs du Mal</i>, I moderated talks featuring the participating artists.</p>
 <p style="margin-left: 35px;">Maho Donowaki, Hilary Doyle, and Alicia Smith, March 2021</p>
-<p style="margin-left: 35px;">Eliot Greenwald, Tammy Nguyen, and Sistership TV (Katherine Kline, Emily Pelstring, Jessica Mensch), March 2021</p>
+<p style="margin-left: 35px;">Eliot Greenwald, Tammy Nguyen, and Sistership TV, March 2021</p>
 <p style="margin-left: 35px;">Joseph Buckley, Clark Filio, Nat Meade, and Astrid Terrazas, March 2021</p>
 <p style="margin-left: 35px;">Georgica Pettus, Louis Osmosis, and Johanna Robinson, February 2021</p>
 <br>
