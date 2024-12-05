@@ -14,7 +14,7 @@ description:
 
 <p><b>Editing:</b> I refine and enhance existing texts, ensuring clarity, coherence, and a seamless reading experience that resonates with audiences.</p>
 
-<p style="margin-left: 35px;">Alan Ruiz, <a href="https://www.thewadsworth.org/wp-content/uploads/2024/09/WA-MATRIX-Brochure-195-6-pages.pdf" target="_blank" rel="noopener">"With Dreams, We Will Have Realities,"</a> exhibition brochure, Wadsworth Atheneum, October 2024</p>
+<p style="margin-left: 35px;">Alan Ruiz, <a href="https://kaacknicole.github.io/PDFs/WA-MATRIX-Brochure-195-6-pages.pdf" target="_blank" rel="noopener">"With Dreams, We Will Have Realities,"</a> exhibition brochure, Wadsworth Atheneum, October 2024</p>
 
 <p style="margin-left: 35px;">Re: Collection editorial series, Institute for Studies on Latin American Art (ISLAA), 2022–24. Re: Collection invites a range of historians, curators, and artists to respond to the artworks in ISLAA's collection through approachable texts. I edited essays by 
 <a href="https://islaa.org/explore/editorial-abreu-grobet" target="_blank" rel="noopener">manuel arturo abreu</a>,
