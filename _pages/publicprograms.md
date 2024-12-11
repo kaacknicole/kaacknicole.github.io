@@ -5,7 +5,7 @@ title: Public Programs
 description:
 ---
 <div class="post">
-<p>Moderated exhibition talks, <i>The Symbolists: Les Fleurs du Mal</i>, HESSE FLATOW, New York, 2021.</p>
+<p>Exhibition talks, <i>The Symbolists: Les Fleurs du Mal</i>, HESSE FLATOW, New York, 2021.</p>
 <p style="margin-left: 35px;">Maho Donowaki, Hilary Doyle, and Alicia Smith, March 2021</p>
 <p style="margin-left: 35px;">Eliot Greenwald, Tammy Nguyen, and Sistership TV, March 2021</p>
 <p style="margin-left: 35px;">Joseph Buckley, Clark Filio, Nat Meade, and Astrid Terrazas, March 2021</p>
