@@ -6,6 +6,7 @@ description:
 ---
 <div class="post">
 2024<br><br>
+<p>Contributed to: <a href="https://brooklynrail.org/2024/12/art_books/the-best-art-books-of-2024/" target="_blank" rel="noopener">Best Art Books of 2024</a>, <i>Brooklyn Rail</i>, December 2024</p>
 <p>"Jean Pierre Villafañe," <i>Art in America</i>, November 2024 (print)</p> 
  <p><a href="https://brooklynrail.org/2024/07/art_books/Pia-Camils-Friendly-Fires/" target="_blank" rel="noopener">"Pia Camil's <i>Friendly Fires</i></a>," <i>Brooklyn Rail</i>, July/August 2024</p>
 <br>2022<br><br>
