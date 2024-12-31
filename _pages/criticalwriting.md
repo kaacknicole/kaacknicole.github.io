@@ -32,7 +32,7 @@ description:
 <p><a href="https://brooklynrail.org/2018/11/artseen/Dismantling-the-Masters-House-The-Color-Curtain-Dinner" target="_blank" rel="noopener">"Dismantling the Master’s House: The Color Curtain Dinner,"</a> <i>The Brooklyn Rail</i>, November 2018</p>
 <p><a href="https://shop.hauserwirth.com/products/recto-verso-art-publishing-in-practice" target="_blank" rel="noopener">"Towards a Basic Bibliography,"</a> <i>Recto / Verso</i> (New York: Hauser & Wirth Publishers, 2018)</p>
 <p><a href="https://www.artforum.com/picks/several-years-have-passed-74968" target="_blank" rel="noopener">“<i>Several Years Have Passed</i>,”</a> <i>Artforum</i>, April 2018</p>
-<p><a href="https://www.artforum.com/picks/deana-lawson-74623" target="_blank" rel="noopener">"Deana Lawson"</a>, <i>Artforum</i>, March 2018</p>
+<p><a href="https://www.artforum.com/picks/deana-lawson-74623" target="_blank" rel="noopener">"Deana Lawson,"</a> <i>Artforum</i>, March 2018</p>
  <br>2017<br><br>
 <p><i>Wordless</i>, (Brooklyn, NY: Small Editions, November 2017)</p>
 <p><a href="http://artviewer.org/screen-wild-coast-wild-coast-by-boru-obrien-oconnell/" target="_blank" rel="noopener">"I can be a brushstroke,"</a> <i>Art Viewer</i>, November 2017. Also published in <i>I will set a stage for you</i>, eds. Ana Iwataki and Marion Vasseur Raluy (Paris: Holoholo, April 2018).</p>
