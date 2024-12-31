@@ -34,10 +34,10 @@ description:
 <p><a href="https://www.artforum.com/picks/several-years-have-passed-74968" target="_blank" rel="noopener">“<i>Several Years Have Passed</i>,”</a> <i>Artforum</i>, April 2018</p>
 <p><a href="https://www.artforum.com/picks/deana-lawson-74623" target="_blank" rel="noopener">"Deana Lawson,"</a> <i>Artforum</i>, March 2018</p>
  <br>2017<br><br>
-<p><i>Wordless</i>, (Brooklyn, NY: Small Editions, November 2017)</p>
+<p><i>Wordless</i> (Brooklyn, NY: Small Editions, November 2017)</p>
 <p><a href="http://artviewer.org/screen-wild-coast-wild-coast-by-boru-obrien-oconnell/" target="_blank" rel="noopener">"I can be a brushstroke,"</a> <i>Art Viewer</i>, November 2017. Also published in <i>I will set a stage for you</i>, eds. Ana Iwataki and Marion Vasseur Raluy (Paris: Holoholo, April 2018)</p>
-<p><i>Enveloped</i>, (Brooklyn, NY: Small Editions, September 2017)</p>
-<p><i>Paperless</i>, (Brooklyn, NY: Small Editions, August 2017)</p>
+<p><i>Enveloped</i> (Brooklyn, NY: Small Editions, September 2017)</p>
+<p><i>Paperless</i> (Brooklyn, NY: Small Editions, August 2017)</p>
 <p>"Sable Elyse Smith," <i>Artforum</i>, July 2017</p>
 <p>"Ellen Berkenblit," <i>Artforum</i>, June 2017</p>
 <p>"Maren Karlson," <i>Artforum</i>, June 2017</p>
