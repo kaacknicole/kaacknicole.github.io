@@ -11,7 +11,9 @@ description:
 <p style="margin-left: 35px;">Joseph Buckley, Clark Filio, Nat Meade, and Astrid Terrazas, March 2021</p>
 <p style="margin-left: 35px;">Georgica Pettus, Louis Osmosis, and Johanna Robinson, February 2021</p>
 <br>
-<p><a href="https://hesseflatow.com/viewing-room/6-virginia-lee-montgomery-in-conversation-with-nicole-kaack/">Virginia Lee Montgomery in conversation with Nicole Kaack</a>, HESSE FLATOW, 2020</p>
+<p><a href="https://hesseflatow.com/viewing-room/6-virginia-lee-montgomery-in-conversation-with-nicole-kaack/">Virginia Lee Montgomery in conversation with Nicole Kaack</a>, HESSE FLATOW, 2020.</p>
+<br>
+Karaoke-style poetry reading featuring PeterBD, Lex Brown, and Jibade-Khalil Huffman, Love, Henry, September 28, 2019. In conjunction with <i>Azikiwe Mohammed: Auntie / Uncle Julius, Welcome Always</i>.
 <br>
 <p>L.A.B. Series, The Kitchen, New York, 2018–19. The L.A.B. series—short for "language," "art," and "bodies”—presents interdisciplinary dialogues that explore how key terms are understood and used across creative disciplines. The 2018–2019 season focused on "representation."</p>
 <p style="margin-left: 35px;"><a href="https://vimeo.com/338065446" target="_blank" rel="noopener">Jerriod Avant, Alex Fialho, Steffani Jemison, and Jill Magid</a>, May 2019</p>
