@@ -5,9 +5,11 @@ title: Writing
 description:
 ---
 <div class="post">
-2024<br><br>
-<p>Contributed to: <a href="https://brooklynrail.org/2024/12/art_books/the-best-art-books-of-2024/" target="_blank" rel="noopener">Best Art Books of 2024</a>, <i>Brooklyn Rail</i>, December 2024</p>
-<p>"Jean Pierre Villafañe," <i>Art in America</i>, November 2024 (print)</p> 
+2025<br><br>
+<p><a href="https://brooklynrail.org/2025/02/art_books/the-collected-poems-of-mary-ellen-solt/" target="_blank" rel="noopener"><i>"The Collected Poems of Mary Ellen Solt,"</i></a> <i>Brooklyn Rail</i>, February 2025</p> 
+ 2024<br><br>
+<p>Contributed to: <a href="https://brooklynrail.org/2024/12/art_books/the-best-art-books-of-2024/" target="_blank" rel="noopener">"Best Art Books of 2024,"</a> <i>Brooklyn Rail</i>, December 2024</p>
+<p><a href="https://www.artnews.com/art-in-america/columns/jean-pierre-villafane-bodies-buildings-art-deco-1234730043/" target="_blank" rel="noopener">"Jean Pierre Villafañe,"</a> <i>Art in America</i>, November 2024 (print)</p> 
  <p><a href="https://brooklynrail.org/2024/07/art_books/Pia-Camils-Friendly-Fires/" target="_blank" rel="noopener">"Pia Camil's <i>Friendly Fires</i></a>," <i>Brooklyn Rail</i>, July/August 2024</p>
 <br>2022<br><br>
 <p><a href="https://www.artnews.com/art-in-america/features/enunciation-escape-rawls-ellis-1234632227/" target="_blank" rel="noopener">"On Enunciation and Escape,"</a> <i>Art in America</i>, June 2022</p>
