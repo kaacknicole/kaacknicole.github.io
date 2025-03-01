@@ -4,7 +4,7 @@ permalink: /editing/
 title: Editing + Copywriting
 description:
 ---
-<p>Copywriting: I craft engaging narratives for artists and institutions, transforming their vision into captivating press releases, artist statements, and institutional content.</p>  
+<p>Copywriting</p>  
 
 <p style="margin-left: 35px;">Artist statement and artwork descriptions, <a href="http://www.jennabassopietrobon.com/" target="_blank" rel="noopener">Jenna Basso Pietrobon</a>, March 2022</p>
 <p style="margin-left: 35px;">Press release, <a href="https://www.loyalgallery.com/exhibitions/long-reaching-gloves/" target="_blank" rel="noopener">Constance Tenvik: <i>Long Reaching Gloves</i></a> at LOYAL Gallery, Oslo, Norway, November 2021.</p>
@@ -12,7 +12,7 @@ description:
 
 <br>
 
-<p>Editing: I refine and enhance existing texts, ensuring clarity, coherence, and a seamless reading experience that resonates with audiences.</p>
+<p>Editing</p>
 
 <p style="margin-left: 35px;">Alan Ruiz, <a href="https://kaacknicole.github.io/PDFs/WA-MATRIX-Brochure-195-6-pages.pdf" target="_blank" rel="noopener">"With Dreams, We Will Have Realities,"</a> exhibition brochure, Wadsworth Atheneum, October 2024</p>
 
@@ -35,7 +35,7 @@ description:
 
 <br>
 
-<p>Publication Project Management: From concept to completion, I oversee every aspect of editorial and project management, delivering beautifully designed, expertly produced, and effectively promoted publications.</p>
+<p>Publication Project Management</p>
 
 <p style="margin-left: 35px;"><a href="https://islaa.org/bookshop/buen-diseno-para-la-industria" target="_blank" rel="noopener"><i>buen diseño para la industria</i></a>, Institute for Studies on Latin American Art, April 2024</p>
 
