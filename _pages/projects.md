@@ -29,7 +29,7 @@ February 18–March 20, 2021</p>
 <p><a href="https://kaacknicole.github.io/PDFs/2020_CONTAIN_Hesse Flatow.pdf" target="_blank" rel="noopener"><i>CONTAIN</i></a><br>
 HESSE FLATOW, New York, NY<br>
 Chang Yuchen, Paige Landesberg, and Shanzhai Lyric<br>
-January 28, 2020–February 1,2020</p>
+January 28, 2020–February 1, 2020</p>
   
 <p><a href="https://kaacknicole.github.io/PDFs/2019_laissezfaire_HUNTER_lo.pdf" target="_blank" rel="noopener"><i><strike>laissez faire et laissez passer</strike></i></a><br>
 Hunter College, New York, NY<br>
