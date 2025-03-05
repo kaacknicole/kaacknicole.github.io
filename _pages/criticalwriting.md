@@ -6,6 +6,7 @@ description:
 ---
 <div class="post">
 2025<br><br>
+ <p>"Living on the Edge," <i>Art in America</i>, March 2025</p> 
 <p><a href="https://impulsemagazine.com/symposium/ecofeminist-interleaving-faith-wilding-at-anat-ebgi" target="_blank" rel="noopener">"Ecofeminist Interleaving: Faith Wilding at Anat Ebgi,"</a> <i>Impulse</i>, February 2025</p> 
 <p><a href="https://brooklynrail.org/2025/02/art_books/the-collected-poems-of-mary-ellen-solt/" target="_blank" rel="noopener"><i>"The Collected Poems of Mary Ellen Solt,"</i></a> <i>Brooklyn Rail</i>, February 2025</p> 
 <br>
