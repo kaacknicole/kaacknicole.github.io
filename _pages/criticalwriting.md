@@ -6,9 +6,9 @@ description:
 ---
 <div class="post">
 2025<br><br>
- <p>"Living on the Edge," interview with Harmony Hammond, <i>Art in America</i>, March 2025</p> 
+ <p>"Living on the Edge," interview with Harmony Hammond, <i>Art in America</i>, March 2025 (print)</p> 
 <p><a href="https://impulsemagazine.com/symposium/ecofeminist-interleaving-faith-wilding-at-anat-ebgi" target="_blank" rel="noopener">"Ecofeminist Interleaving: Faith Wilding at Anat Ebgi,"</a> <i>Impulse</i>, February 2025</p> 
-<p><a href="https://brooklynrail.org/2025/02/art_books/the-collected-poems-of-mary-ellen-solt/" target="_blank" rel="noopener"><i>"The Collected Poems of Mary Ellen Solt,"</i></a> <i>Brooklyn Rail</i>, February 2025</p> 
+<p><a href="https://brooklynrail.org/2025/02/art_books/the-collected-poems-of-mary-ellen-solt/" target="_blank" rel="noopener"><i>"The Collected Poems of Mary Ellen Solt,"</i></a> <i>Brooklyn Rail</i>, February 2025 (print)</p> 
 <br>
 2024<br><br>
 <p>Contributed to: <a href="https://brooklynrail.org/2024/12/art_books/the-best-art-books-of-2024/" target="_blank" rel="noopener">"Best Art Books of 2024,"</a> <i>Brooklyn Rail</i>, December 2024</p>
