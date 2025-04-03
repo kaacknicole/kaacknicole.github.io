@@ -6,8 +6,8 @@ description:
 ---
 <div class="post">
 2025<br><br>
-<p><a href="https://brooklynrail.org/2025/04/artseen/amy-ruhl-we-shall-not-miss-it/" target="_blank" rel="noopener">Amy Ruhl: <i>We shall not miss it</i></a> <i>Brooklyn Rail</i>, April 2025</p> 
-<p><a href="https://brooklynrail.org/2025/04/art_books/jose-sarmento-matos-jamaika/" target="_blank" rel="noopener">José Sarmento Matos’s <i>JAMAIKA</i></a> <i>Brooklyn Rail</i>, April 2025</p> 
+<p><a href="https://brooklynrail.org/2025/04/artseen/amy-ruhl-we-shall-not-miss-it/" target="_blank" rel="noopener">"Amy Ruhl: <i>We shall not miss it</i>,"</a> <i>Brooklyn Rail</i>, April 2025</p> 
+<p><a href="https://brooklynrail.org/2025/04/art_books/jose-sarmento-matos-jamaika/" target="_blank" rel="noopener">José Sarmento Matos’s <i>JAMAIKA</i>,"</a> <i>Brooklyn Rail</i>, April 2025</p> 
 <p><a href="https://impulsemagazine.com/symposium/ypo0eiqzcpoii223gox8parge2f8w3-ceremoniesoutoftheair" target="_blank" rel="noopener">"Memory as Methodology: Ralph Lemon at MoMA PS1,"</a> <i>Impulse</i>, March 2025</p> 
 <p>"Living on the Edge," interview with Harmony Hammond, <i>Art in America</i>, March 2025 (print)</p> 
 <p><a href="https://impulsemagazine.com/symposium/ecofeminist-interleaving-faith-wilding-at-anat-ebgi" target="_blank" rel="noopener">"Ecofeminist Interleaving: Faith Wilding at Anat Ebgi,"</a> <i>Impulse</i>, February 2025</p> 
