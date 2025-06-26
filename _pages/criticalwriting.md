@@ -6,7 +6,8 @@ description:
 ---
 <div class="post">
 2025<br><br>
- <p>Profiles on Rhea Dillon and Aislan Pankararu, <i>Art in America</i>, May 2025 (print)</p> 
+ <p><a href="https://www.artnews.com/art-news/artists/guerrilla-girls-feminist-collective-why-so-important-1234745911/" target="_blank" rel="noopener">"Guerrilla Girls: Fighting Discrimination, One Poster at a Time,"</a> <i>ARTnews</i>, June 2025</p> 
+ <p>Profiles on <a href="https://www.artnews.com/art-in-america/columns/rhea-dillon-sculpture-new-talent-1234745268/" target="_blank" rel="noopener">Rhea Dillon</a> and <a href="https://www.artnews.com/art-in-america/columns/aislan-pankararu-brazil-new-talent-2025-1234745980/" target="_blank" rel="noopener">Aislan Pankararu</a>, <i>Art in America</i>, May 2025 (print)</p> 
  <p><a href="https://artreview.com/alice-coltrane-monument-eternal-hammer-museum-los-angeles-review-nicole-kaack/" target="_blank" rel="noopener">"Alice Coltrane: <i>Monument Eternal</i>,"</a> review of the exhibition at the Hammer Museum, <i>ArtReview</i>, April 2025 (print)</p> 
 <p><a href="https://brooklynrail.org/2025/04/artseen/amy-ruhl-we-shall-not-miss-it/" target="_blank" rel="noopener">"Amy Ruhl: <i>We shall not miss it</i>,"</a> <i>Brooklyn Rail</i>, April 2025</p> 
 <p><a href="https://brooklynrail.org/2025/04/art_books/jose-sarmento-matos-jamaika/" target="_blank" rel="noopener">"José Sarmento Matos’s <i>JAMAIKA</i>,"</a> <i>Brooklyn Rail</i>, April 2025</p> 
