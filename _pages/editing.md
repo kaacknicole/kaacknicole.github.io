@@ -6,6 +6,7 @@ description:
 ---
 <p>Copywriting</p>  
 
+<p style="margin-left: 35px;">Press release, <a href="https://dunes.fyi/window/" target="_blank" rel="noopener"><i>A Window Is Also a Wall</i></a> at Dunes, Portland, ME, July 2022.</p>
 <p style="margin-left: 35px;">Artist statement and artwork descriptions, <a href="http://www.jennabassopietrobon.com/" target="_blank" rel="noopener">Jenna Basso Pietrobon</a>, March 2022</p>
 <p style="margin-left: 35px;">Press release, <a href="https://www.loyalgallery.com/exhibitions/long-reaching-gloves/" target="_blank" rel="noopener">Constance Tenvik: <i>Long Reaching Gloves</i></a> at LOYAL Gallery, Oslo, Norway, November 2021.</p>
 <p style="margin-left: 35px;">Press release, Amy Ruhl: <i>Between Tin Men: Gifts and Souvenirs</i>, Lubov, NY, July 2017</p>
