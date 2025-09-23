@@ -4,6 +4,11 @@ permalink: /projects/
 title: Curatorial
 ---
 <div class="post"><article class="projects">
+<p><a href="https://centerforbookarts.org/exhibitions/shatter-chatter-rosaire-appel" target="_blank" rel="noopener"><i>Shatter/Chatter: Rosaire Appel</i></a><br>
+Center for Book Arts, New York, NY<br>
+January 22—May 5, 2026</p>
+  
+  
 <p><a href="https://www.airgallery.org/exhibitions/write-me-letters-you-write-to-me" target="_blank" rel="noopener"><i>"Write me letters" you write to me</i></a><br>
 A.I.R. Gallery, Brooklyn, NY<br>
 Nancy Daly, Robin Dintiman, Nicolei Buendia Gupit, Nicole Havekost, Marlana Stoddard Hayes, Olga Hiiva, Gongsan Kim, Katherine Tzu-Lan Mann, Jennifer McCandless, Courtney Desiree Morris, Allison Paschke, Cozette Russell, Carrie Scanga, Martha Sedgwick, Rebecca Weisman, Ellyn Weiss, Holly Wong, Joo Yeon Woo, and Alice Pixley Young<br>
