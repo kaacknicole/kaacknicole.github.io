@@ -7,7 +7,7 @@ description:
 <div class="post">
 <p>Exhibition talk with Victoria Martinez, <a href="https://www.poetryfoundation.org/exhibitions/1706555/victoria-martinez-frente-a-la-vida-facing-life" target="_blank" rel="noopener"><i>Frente a la vida / Facing Life</i></a>, Poetry Foundation, Chicago, September 2025.</p>
 <br>
-<p>Exhibition talks, <i>The Symbolists: Les Fleurs du Mal</i>, HESSE FLATOW, New York, 2021.</p>
+<p>Exhibition talks, <a href="https://www.poetryfoundation.org/exhibitions/1706555/victoria-martinez-frente-a-la-vida-facing-life" target="_blank" rel="noopener"><i>The Symbolists: Les flours du mal</i></a>, HESSE FLATOW, New York, 2021.</p>
 <p style="margin-left: 35px;">Maho Donowaki, Hilary Doyle, and Alicia Smith, March 2021</p>
 <p style="margin-left: 35px;">Eliot Greenwald, Tammy Nguyen, and Sistership TV, March 2021</p>
 <p style="margin-left: 35px;">Joseph Buckley, Clark Filio, Nat Meade, and Astrid Terrazas, March 2021</p>
