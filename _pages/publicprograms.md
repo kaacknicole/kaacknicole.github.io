@@ -5,6 +5,8 @@ title: Public Programs
 description:
 ---
 <div class="post">
+<p>Exhibition talk with Victoria Martinez, <i>Frente a la vida</i>, Poetry Foundation, Chicago, September 2025.</p>
+<br>
 <p>Exhibition talks, <i>The Symbolists: Les Fleurs du Mal</i>, HESSE FLATOW, New York, 2021.</p>
 <p style="margin-left: 35px;">Maho Donowaki, Hilary Doyle, and Alicia Smith, March 2021</p>
 <p style="margin-left: 35px;">Eliot Greenwald, Tammy Nguyen, and Sistership TV, March 2021</p>
