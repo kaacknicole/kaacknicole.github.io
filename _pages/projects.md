@@ -39,8 +39,8 @@ January 28, 2020–February 1, 2020</p>
 <p><a href="https://kaacknicole.github.io/PDFs/2019_laissezfaire_HUNTER_lo.pdf" target="_blank" rel="noopener"><i><strike>laissez faire et laissez passer</strike></i></a><br>
 Hunter College, New York, NY<br>
 Hannah Beerman, Brian Yihurn Byun, Elizabeth Harney, Emily Janowick, Judy Koo, Jessica Mensch, Patrick Carlin Mohundro, Andy Ralph, and Jordan Stohl<br>
-December 12, 2019–January 6, 2020</p>
-<a href="https://kaacknicole.github.io/PDFs/2019_Hunter_G2_Zine_FINAL.pdf" target="_blank" rel="noopener">Exhibition Zine</a><br>
+December 12, 2019–January 6, 2020<br>
+<a href="https://kaacknicole.github.io/PDFs/2019_Hunter_G2_Zine_FINAL.pdf" target="_blank" rel="noopener">Exhibition Zine</a></p>
 
 <p><a href="https://kaacknicole.github.io/PDFs/2019_NARS_BatAmiRivlin_ItAllTrembles.pdf" target="_blank" rel="noopener"><i>Bat-Ami Rivlin: It All Trembles</i></a><br>
 NARS Foundation, Brooklyn, NY<br>
