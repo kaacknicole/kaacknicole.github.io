@@ -6,7 +6,7 @@ title: Curatorial
 <div class="post"><article class="projects">
 <p><a href="https://centerforbookarts.org/exhibitions/shatter-chatter-rosaire-appel" target="_blank" rel="noopener"><i>Shatter / Chatter: Rosaire Appel</i></a><br>
 Center for Book Arts, New York, NY<br>
-January 22—May 5, 2026</p>
+January 21—May 2, 2026</p>
   
   
 <p><a href="https://www.airgallery.org/exhibitions/write-me-letters-you-write-to-me" target="_blank" rel="noopener"><i>"Write me letters" you write to me</i></a><br>
