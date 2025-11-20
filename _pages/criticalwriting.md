@@ -6,6 +6,7 @@ description:
 ---
 <div class="post">
 2025<br><br>
+ <p><a href="https://brooklynrail.org/2025/11/art_books/the-scores-project/" target="_blank" rel="noopener">"<i>The Scores Project</i>,"</a> <i>Brooklyn Rail</i>, November 2025</p> 
  <p><a href="https://clereviewofbooks.com/bullets-appendices-exhibits-don-delillo-libra/#appendixtwo" target="_blank" rel="noopener">"Twelve Bullets, Four Appendices, and Six Exhibits: On Don DeLillo’s <i>Libra</i>,"</a> <i>Cleveland Review of Books</i>, October 2025</p> 
  <p><a href="https://artreview.com/federico-garcia-lorcas-recycled-history/" target="_blank" rel="noopener">"Federico García Lorca’s Recycled History,"</a> <i>ArtReview</i>, October 2025</p> 
  <p><a href="https://impulsemagazine.com/symposium/knots-ruth-asawa-at-sfmoma" target="_blank" rel="noopener">"Knots: Ruth Asawa at SFMOMA,"</a> <i>Impulse</i>, August 2025</p> 
