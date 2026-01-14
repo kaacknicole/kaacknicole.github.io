@@ -5,6 +5,7 @@ title: Editing + Copywriting
 description:
 ---
 <p>Copywriting</p>  
+<p style="margin-left: 35px;">Press release, <a href="https://bureau-inc.com/exhibitions/lucas-blalock-and-julia-rommel-2026" target="_blank" rel="noopener"><i>Hunks</i></a>, Bureau, New York, January 2026</p>
 <p style="margin-left: 35px;">Press release and wall text, <a href="https://www.poetryfoundation.org/exhibitions/1706555/victoria-martinez-frente-a-la-vida-facing-life" target="_blank" rel="noopener"><i>Frente a la vida / Facing Life</i></a>, Poetry Foundation, Chicago, September 2025</p>
 <p style="margin-left: 35px;">Press release, <a href="https://dunes.fyi/window/" target="_blank" rel="noopener"><i>A Window Is Also a Wall</i></a>, Dunes, Portland, ME, July 2022</p>
 <p style="margin-left: 35px;">Artist statement and artwork descriptions, <a href="http://www.jennabassopietrobon.com/" target="_blank" rel="noopener">Jenna Basso Pietrobon</a>, March 2022</p>
