@@ -6,7 +6,7 @@ description:
 ---
 <div class="post">
 2026<br><br>
- <p><a href="https://www.aaartsalliance.org/magazine/stories/chang-yuchen-on-love-loss-and-the-mediated-self" target="_blank" rel="noopener">"Chang Yuchen on Love, Loss, and the Mediated Self,"</a> <i>The Amp</i>, February 2026</p> 
+ <p><a href="https://www.aaartsalliance.org/magazine/stories/chang-yuchen-on-love-loss-and-the-mediated-self" target="_blank" rel="noopener">"Chang Yuchen on Love, Loss, and the Mediated Self,"</a> <i>The Amp</i>, January 2026</p> 
 <br> 2025<br><br>
  <p><a href="https://brooklynrail.org/2025/11/art_books/the-scores-project/" target="_blank" rel="noopener">"<i>The Scores Project</i>,"</a> <i>Brooklyn Rail</i>, November 2025</p> 
  <p><a href="https://clereviewofbooks.com/bullets-appendices-exhibits-don-delillo-libra/#appendixtwo" target="_blank" rel="noopener">"Twelve Bullets, Four Appendices, and Six Exhibits: On Don DeLillo’s <i>Libra</i>,"</a> <i>Cleveland Review of Books</i>, October 2025</p> 
