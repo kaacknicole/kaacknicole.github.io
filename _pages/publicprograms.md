@@ -5,6 +5,8 @@ title: Public Programs
 description:
 ---
 <div class="post">
+<p>Moderated dialogue with Tyler Coburn, Wendy's Subway, New York, March 2026</p>
+  <p>Exhibition talk with Lucas Blalock and Julia Rommel, Bureau, New York, February 2026</p>
 <p>Exhibition talk with Victoria Martinez, <a href="https://www.poetryfoundation.org/exhibitions/1706555/victoria-martinez-frente-a-la-vida-facing-life" target="_blank" rel="noopener"><i>Frente a la vida / Facing Life</i></a>, Poetry Foundation, Chicago, September 2025</p>
 <br>
 <p>Exhibition talks, <a href="https://www.poetryfoundation.org/exhibitions/1706555/victoria-martinez-frente-a-la-vida-facing-life" target="_blank" rel="noopener"><i>The Symbolists: Les flours du mal</i></a>, HESSE FLATOW, New York, 2021</p>
