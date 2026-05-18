@@ -6,7 +6,8 @@ description:
 ---
 <div class="post">
 2026<br><br>
-<p>Review of the Women's History Museum lookbook <i>Grisette à l'enfer</i>, <i>The Whitney Review</i> 7, May 2026</p> 
+<p><a href="https://criticalconversations.art/articles/dollars-and-sense-morgan-ritter-s-poem-tags" target="_blank" rel="noopener">Dollars and Sense: Morgan Ritter's Poem Tags,</a> <i>Critical Conversations</i>, May 2026</p> 
+ <p>Review of the Women's History Museum lookbook <i>Grisette à l'enfer</i>, <i>The Whitney Review</i> 7, May 2026</p> 
 <p>Review of CFGNY: <i>Puddles into Pond</i> at Amant, <i>ArtReview</i>, May 2026</p> 
 <p><a href="https://bombmagazine.org/articles/2026/04/10/tyler-coburn-by-nicole-kaack/" target="_blank" rel="noopener">Interview with Tyler Coburn,</a> <i>BOMB</i>, April 2026</p> 
  <p><a href="https://brooklynrail.org/2026/04/art_books/performing-chance-the-art-of-alison-knowles-in-out-of-fluxus/" target="_blank" rel="noopener">"<i>Performing Chance: The Art of Alison Knowles In/Out of Fluxus</i>,"</a> <i>Brooklyn Rail</i>, April 2026</p>
