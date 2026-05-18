@@ -6,8 +6,9 @@ description:
 ---
 <div class="post">
 2026<br><br>
-<p><a href="https://criticalconversations.art/articles/dollars-and-sense-morgan-ritter-s-poem-tags" target="_blank" rel="noopener">Dollars and Sense: Morgan Ritter's Poem Tags,</a> <i>Critical Conversations</i>, May 2026</p> 
- <p>Review of the Women's History Museum lookbook <i>Grisette à l'enfer</i>, <i>The Whitney Review</i> 7, May 2026</p> 
+ <p>Profile on Mitchell Charbonneau, <i>Art in America</i>, May 2026 (print)</p> 
+ <p><a href="https://criticalconversations.art/articles/dollars-and-sense-morgan-ritter-s-poem-tags" target="_blank" rel="noopener">Dollars and Sense: Morgan Ritter's Poem Tags,</a> <i>Critical Conversations</i>, May 2026</p> 
+ <p>Review of the Women's History Museum lookbook <i>Grisette à l'enfer</i>, <i>The Whitney Review</i>, May 2026 (print)</p> 
 <p>Review of CFGNY: <i>Puddles into Pond</i> at Amant, <i>ArtReview</i>, May 2026</p> 
 <p><a href="https://bombmagazine.org/articles/2026/04/10/tyler-coburn-by-nicole-kaack/" target="_blank" rel="noopener">Interview with Tyler Coburn,</a> <i>BOMB</i>, April 2026</p> 
  <p><a href="https://brooklynrail.org/2026/04/art_books/performing-chance-the-art-of-alison-knowles-in-out-of-fluxus/" target="_blank" rel="noopener">"<i>Performing Chance: The Art of Alison Knowles In/Out of Fluxus</i>,"</a> <i>Brooklyn Rail</i>, April 2026</p>
@@ -15,7 +16,7 @@ description:
  <p><a href="https://www.aaartsalliance.org/magazine/stories/chang-yuchen-on-love-loss-and-the-mediated-self" target="_blank" rel="noopener">"Chang Yuchen on Love, Loss, and the Mediated Self,"</a> <i>The Amp</i>, January 2026</p> 
 <br> 2025<br><br>
  <p><a href="https://brooklynrail.org/2025/11/art_books/the-scores-project/" target="_blank" rel="noopener">"<i>The Scores Project</i>,"</a> <i>Brooklyn Rail</i>, November 2025</p> 
- <p><a href="https://clereviewofbooks.com/bullets-appendices-exhibits-don-delillo-libra/#appendixtwo" target="_blank" rel="noopener">"Twelve Bullets, Four Appendices, and Six Exhibits: On Don DeLillo’s <i>Libra</i>,"</a> <i>Cleveland Review of Books</i>, October 2025</p> 
+ <p><a href="https://clereviewofbooks.com/bullets-appendices-exhibits-don-delillo-libra/#appendixtwo" target="_blank" rel="noopener">"Twelve Bullets, Four Appendices, and Six Exhibits: On Don DeLillo’s <i>Libra</i>,"</a> <i>Cleveland Review of Books</i>, October 2025. Also printed in issue 4.1 of the review in May 2026.</p> 
  <p><a href="https://artreview.com/federico-garcia-lorcas-recycled-history/" target="_blank" rel="noopener">"Federico García Lorca’s Recycled History,"</a> <i>ArtReview</i>, October 2025</p> 
  <p><a href="https://impulsemagazine.com/symposium/knots-ruth-asawa-at-sfmoma" target="_blank" rel="noopener">"Knots: Ruth Asawa at SFMOMA,"</a> <i>Impulse</i>, August 2025</p> 
  <p><a href="https://www.artnews.com/art-news/artists/guerrilla-girls-feminist-collective-why-so-important-1234745911/" target="_blank" rel="noopener">"Guerrilla Girls: Fighting Discrimination, One Poster at a Time,"</a> <i>ARTnews</i>, June 2025</p> 
