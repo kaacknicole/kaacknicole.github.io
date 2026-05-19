@@ -7,7 +7,7 @@ description:
 <div class="post">
 2026<br><br>
  <p>Profile on Mitchell Charbonneau, <i>Art in America</i>, May 2026 (print)</p> 
- <p><a href="https://criticalconversations.art/articles/dollars-and-sense-morgan-ritter-s-poem-tags" target="_blank" rel="noopener">Dollars and Sense: Morgan Ritter's Poem Tags,</a> <i>Critical Conversations</i>, May 2026</p> 
+ <p><a href="https://criticalconversations.art/articles/dollars-and-sense-morgan-ritter-s-poem-tags" target="_blank" rel="noopener">"Dollars and Sense: Morgan Ritter's Poem Tags,"</a> <i>Critical Conversations</i>, May 2026</p> 
  <p>Review of the Women's History Museum lookbook <i>Grisette à l'enfer</i>, <i>The Whitney Review</i>, May 2026 (print)</p> 
 <p>Review of CFGNY: <i>Puddles into Pond</i> at Amant, <i>ArtReview</i>, May 2026 (print)</p> 
 <p><a href="https://bombmagazine.org/articles/2026/04/10/tyler-coburn-by-nicole-kaack/" target="_blank" rel="noopener">Interview with Tyler Coburn,</a> <i>BOMB</i>, April 2026</p> 
