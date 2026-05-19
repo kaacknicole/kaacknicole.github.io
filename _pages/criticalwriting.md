@@ -12,7 +12,7 @@ description:
 <p>Review of CFGNY: <i>Puddles into Pond</i> at Amant, <i>ArtReview</i>, May 2026 (print)</p> 
 <p><a href="https://bombmagazine.org/articles/2026/04/10/tyler-coburn-by-nicole-kaack/" target="_blank" rel="noopener">Interview with Tyler Coburn,</a> <i>BOMB</i>, April 2026</p> 
  <p><a href="https://brooklynrail.org/2026/04/art_books/performing-chance-the-art-of-alison-knowles-in-out-of-fluxus/" target="_blank" rel="noopener">"<i>Performing Chance: The Art of Alison Knowles In/Out of Fluxus</i>,"</a> <i>Brooklyn Rail</i>, April 2026</p>
- <p><a href="https://www.artnews.com/art-in-america/interviews/pat-oleszko-fool-sculpture-center-performance-whitney-biennial-1234771648/" target="_blank" rel="noopener">"Pat Oleszko on Making a Fool of Herself for 60 Years and Counting,"</a> <i>Art in America</i>, February 2026</p> 
+ <p><a href="https://www.artnews.com/art-in-america/interviews/pat-oleszko-fool-sculpture-center-performance-whitney-biennial-1234771648/" target="_blank" rel="noopener">"Pat Oleszko on Making a Fool of Herself for 60 Years and Counting,"</a> <i>Art in America</i>, February 2026 (print)</p> 
  <p><a href="https://www.aaartsalliance.org/magazine/stories/chang-yuchen-on-love-loss-and-the-mediated-self" target="_blank" rel="noopener">"Chang Yuchen on Love, Loss, and the Mediated Self,"</a> <i>The Amp</i>, January 2026</p> 
 <br> 2025<br><br>
  <p><a href="https://brooklynrail.org/2025/11/art_books/the-scores-project/" target="_blank" rel="noopener">"<i>The Scores Project</i>,"</a> <i>Brooklyn Rail</i>, November 2025</p> 
