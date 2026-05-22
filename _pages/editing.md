@@ -5,6 +5,8 @@ title: Editing + Copywriting
 description:
 ---
 <p>Copywriting</p>  
+<p style="margin-left: 35px;">Press release, <a href="https://hesseflatow.com/exhibitions/172/overview/" target="_blank" rel="noopener">Mekko Harjo: <i>From a state of sleep</i></a>, Hesse Flatow, New York, June 2026</p> 
+<p style="margin-left: 35px;">Press release, <a href="https://hesseflatow.com/exhibitions/171-bix-archer-slipstream/overview/" target="_blank" rel="noopener">Bix Archer: <i>Slipstream</i></a>, Hesse Flatow, New York, June 2026</p> 
 <p style="margin-left: 35px;">Press release, <a href="https://bureau-inc.com/exhibitions/lucas-blalock-and-julia-rommel-2026" target="_blank" rel="noopener">Lucas Blalock and Julia Rommel: <i>Hunks</i></a>, Bureau, New York, January 2026</p> 
 <p style="margin-left: 35px;">Press release and wall text, <a href="https://www.poetryfoundation.org/exhibitions/1706555/victoria-martinez-frente-a-la-vida-facing-life" target="_blank" rel="noopener">Victoria Martinez: <i>Frente a la vida / Facing Life</i></a>, Poetry Foundation, Chicago, September 2025</p>
 <p style="margin-left: 35px;">Press release, <a href="https://dunes.fyi/window/" target="_blank" rel="noopener"><i>A Window Is Also a Wall</i></a>, Dunes, Portland, ME, July 2022</p>
