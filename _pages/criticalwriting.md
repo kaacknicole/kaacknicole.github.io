@@ -6,6 +6,7 @@ description:
 ---
 <div class="post">
 2026<br><br>
+<p><a href="https://www.artforum.com/events/stephen-lichty-yveyang-new-york-1234752627/" target="_blank" rel="noopener">Review of Stephen Lichty: <i>Ghost Stone</i> at YveYANG Gallery,</a> <i>Artforum</i>, June 2026</p> 
  <p>Profile on Mitchell Charbonneau, <i>Art in America</i>, May 2026 (print)</p> 
  <p><a href="https://criticalconversations.art/articles/dollars-and-sense-morgan-ritter-s-poem-tags" target="_blank" rel="noopener">"Dollars and Sense: Morgan Ritter's Poem Tags,"</a> <i>Critical Conversations</i>, May 2026</p> 
  <p>Review of the Women's History Museum lookbook <i>Grisette à l'enfer</i>, <i>The Whitney Review</i>, May 2026 (print)</p> 
