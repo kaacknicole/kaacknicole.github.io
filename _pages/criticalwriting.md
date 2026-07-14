@@ -101,4 +101,3 @@ description:
 <p><a href="https://whitehotmagazine.com/articles/chorus-ed-atkins-at-kitchen/3404" target="_blank" rel="noopener">"The Disembodied Chorus: Ed Atkins at The Kitchen,"</a> <i>Whitehot Magazine</i>, April 2016</p>
 <p>"Little Boxes: Samara Golden at Yerba Buena," <i>artcritical</i>, April 2016</p>
 <p>"Unbridgeable Gap: Andrea Fraser Brings Sing Sing to the Whitney," <i>artcritical</i>, April 2016</p>
-</div>
