@@ -6,7 +6,7 @@ description:
 ---
 <div class="post">
 2026<br><br>
-<p><a href="https://brooklynrail.org/2026/07/art_books/shanzhai-lyric-endless-garment/" target="_blank" rel="noopener">Shanzhai Lyric's <i>Endless Garment</i>,</a> <i>Brooklyn Rail</i>, July 2026</p> 
+<p><a href="https://brooklynrail.org/2026/07/art_books/shanzhai-lyric-endless-garment/" target="_blank" rel="noopener">"Shanzhai Lyric's <i>Endless Garment</i>," </a> <i>Brooklyn Rail</i>, July 2026</p> 
  <p><a href="https://www.artforum.com/events/stephen-lichty-yveyang-new-york-1234752627/" target="_blank" rel="noopener">"Material Artifacts: Stephen Lichty Revisits a Site of Ecological Catastrophe," <i>Artforum</i>, June 2026</p> 
 <p><a href="https://artreview.com/cfgny-puddles-into-pond-amant-new-york-review-nicole-kaack/" target="_blank" rel="noopener">"CFGNY's Social Puddles,"</a> <i>ArtReview</i>, June 2026</p>
  <p>Profile on Mitchell Charbonneau, <i>Art in America</i>, May 2026 (print)</p> 
