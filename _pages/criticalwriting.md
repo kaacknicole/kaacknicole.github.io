@@ -6,7 +6,7 @@ description:
 ---
 <div class="post">
 2026<br><br>
-<p>"Sophie Becker’s House of Puppets," <i>ArtReview</i>, September 2026 (print)</p>
+<p><a href="https://artreview.com/sophie-becker-house-of-puppets-feature-nicole-kaack/" target="_blank" rel="noopener">"Sophie Becker’s House of Puppets,"</a> <i>ArtReview</i>, September 2026 (print)</p>
  <p>"Sensual Surrogates: Janine Antoni," <i>Art in America</i>, September 2026 (print cover story)</p> 
  <p><a href="https://www.memoreview.net/magazine/issue-5/nicole-kaack" target="_blank" rel="noopener">"Bodies in Motion,"</a> on Sam Contis’s <i>Five Kilometers</i> (2025), <i>Memo Review</i>, July 2026 (print)</p> 
  <p><a href="https://brooklynrail.org/2026/07/art_books/shanzhai-lyric-endless-garment/" target="_blank" rel="noopener">"Shanzhai Lyric's <i>Endless Garment</i>," </a> <i>Brooklyn Rail</i>, July 2026</p> 
