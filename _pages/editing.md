@@ -10,7 +10,7 @@ description:
 <p style="margin-left: 35px;">Press release, <a href="https://hesseflatow.com/exhibitions/171-bix-archer-slipstream/overview/" target="_blank" rel="noopener">Bix Archer: <i>Slipstream</i></a>, Hesse Flatow, New York, June 2026</p> 
 <p style="margin-left: 35px;">Press release, <a href="https://bureau-inc.com/exhibitions/lucas-blalock-and-julia-rommel-2026" target="_blank" rel="noopener">Lucas Blalock and Julia Rommel: <i>Hunks</i></a>, Bureau, New York, January 2026</p> 
 <p style="margin-left: 35px;">Press release and wall text, <a href="https://www.poetryfoundation.org/exhibitions/1706555/victoria-martinez-frente-a-la-vida-facing-life" target="_blank" rel="noopener">Victoria Martinez: <i>Frente a la vida / Facing Life</i></a>, Poetry Foundation, Chicago, September 2025</p>
-<p style="margin-left: 35px;">Press release, <a href="https://dunes.fyi/window/" target="_blank" rel="noopener"><i>A Window Is Also a Wall</i></a>, Dunes, Portland, ME, July 2022</p>
+<p style="margin-left: 35px;">Press release, <a href="https://www.dunes.fyi/api/media/file/window_press_checklist-1.pdf" target="_blank" rel="noopener"><i>A Window Is Also a Wall</i></a>, Dunes, Portland, ME, July 2022</p>
 <p style="margin-left: 35px;">Artist statement and artwork descriptions, <a href="http://www.jennabassopietrobon.com/" target="_blank" rel="noopener">Jenna Basso Pietrobon</a>, March 2022</p>
 <p style="margin-left: 35px;">Press release, <a href="https://www.loyalgallery.com/exhibitions/long-reaching-gloves/" target="_blank" rel="noopener">Constance Tenvik: <i>Long Reaching Gloves</i></a>, LOYAL Gallery, Oslo, Norway, November 2021</p>
 <p style="margin-left: 35px;">Press release, Amy Ruhl: <i>Between Tin Men: Gifts and Souvenirs</i>, Lubov, NY, July 2017</p>
