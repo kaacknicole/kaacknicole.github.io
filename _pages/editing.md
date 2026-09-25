@@ -5,6 +5,7 @@ title: Editing + Copywriting
 description:
 ---
 <p>Copywriting</p>  
+<p style="margin-left: 35px;">Research guide, <a href="https://visualaids.org/blog/announcing-the-black-artists-in-the-visual-aids-archive-research-guide" target="_blank" rel="noopener">Black Artists in the Visual AIDS Archive</a>, Visual AIDS, New York, September 2026</p> 
 <p style="margin-left: 35px;">Press release, <a href="https://hesseflatow.com/exhibitions/174-lizzie-gill-carousel/overview/" target="_blank" rel="noopener">Lizzie Gill: <i>Carousel</i></a>, Hesse Flatow, New York, September 2026</p> 
 <p style="margin-left: 35px;">Press release, <a href="https://hesseflatow.com/exhibitions/172/overview/" target="_blank" rel="noopener">Mekko Harjo: <i>From a state of sleep</i></a>, Hesse Flatow, New York, June 2026</p> 
 <p style="margin-left: 35px;">Press release, <a href="https://hesseflatow.com/exhibitions/171-bix-archer-slipstream/overview/" target="_blank" rel="noopener">Bix Archer: <i>Slipstream</i></a>, Hesse Flatow, New York, June 2026</p> 
