@@ -13,7 +13,7 @@ description:
  <p><a href="https://brooklynrail.org/2026/07/art_books/shanzhai-lyric-endless-garment/" target="_blank" rel="noopener">"Shanzhai Lyric's <i>Endless Garment</i>," </a> <i>Brooklyn Rail</i>, July 2026</p> 
  <p><a href="https://www.artforum.com/events/stephen-lichty-yveyang-new-york-1234752627/" target="_blank" rel="noopener">"Material Artifacts: Stephen Lichty Revisits a Site of Ecological Catastrophe,"</a> <i>Artforum</i>, June 2026. Also printed in the September 2026 issue of the magazine.</p>
 <p><a href="https://artreview.com/cfgny-puddles-into-pond-amant-new-york-review-nicole-kaack/" target="_blank" rel="noopener">"CFGNY's Social Puddles,"</a> <i>ArtReview</i>, June 2026</p>
- <p>Profile on Mitchell Charbonneau, <i>Art in America</i>, May 2026 (print)</p> 
+ <p><a href="https://www.artnews.com/art-in-america/columns/mitchell-charbonneau-hyperrealist-sculptures-1234794820/" target="_blank" rel="noopener">"Mitchell Charbonneau’s Hyperrealist Sculptures Hide in Plain Sight,"</a> <i>Art in America</i>, May 2026 (print)</p> 
  <p><a href="https://criticalconversations.art/articles/dollars-and-sense-morgan-ritter-s-poem-tags" target="_blank" rel="noopener">"Dollars and Sense: Morgan Ritter's Poem Tags,"</a> <i>Critical Conversations</i>, May 2026</p> 
  <p>Review of the Women's History Museum lookbook <i>Grisette à l'enfer</i>, <i>The Whitney Review</i>, May 2026 (print)</p>  
 <p><a href="https://bombmagazine.org/articles/2026/04/10/tyler-coburn-by-nicole-kaack/" target="_blank" rel="noopener">Interview with Tyler Coburn,</a> <i>BOMB</i>, April 2026</p> 
