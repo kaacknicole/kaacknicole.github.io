@@ -6,7 +6,8 @@ description:
 ---
 <div class="post">
 2026<br><br>
-<p><a href="https://www.artnews.com/art-in-america/aia-reviews/francis-picabia-retrospective-palazzo-reale-milan-anne-berest-1234804213/" target="_blank" rel="noopener">"A Retrospective Introduces Francis Picabia to a New Generation—with Funhouse Mirrors and a Peep Show,"</a> <i>Art in America</i>, October 2026</p>
+<p><a href="https://www.artnews.com/art-in-america/aia-reviews/marisa-merz-arte-povera-turin-retrospective-1234805723/" target="_blank" rel="noopener">"How Does an Artist Know When She’s Done? A Major Marisa Merz Retrospective Turns the Question on Its Head,"</a> <i>Art in America</i>, November 2026</p>
+ <p><a href="https://www.artnews.com/art-in-america/aia-reviews/francis-picabia-retrospective-palazzo-reale-milan-anne-berest-1234804213/" target="_blank" rel="noopener">"A Retrospective Introduces Francis Picabia to a New Generation,"</a> <i>Art in America</i>, October 2026</p>
  <p><a href="https://artreview.com/sophie-becker-house-of-puppets-feature-nicole-kaack/" target="_blank" rel="noopener">"Sophie Becker’s House of Puppets,"</a> <i>ArtReview</i>, September 2026 (print)</p>
  <p><a href="https://www.artnews.com/art-in-america/features/janine-antoni-bahamian-american-icons-sculptor-lick-lather-1234797619/" target="_blank" rel="noopener">"Sensual Surrogates: Janine Antoni,"</a> <i>Art in America</i>, September 2026 (print cover story)</p> 
  <p><a href="https://www.memoreview.net/magazine/issue-5/nicole-kaack" target="_blank" rel="noopener">"Bodies in Motion,"</a> on Sam Contis’s <i>Five Kilometers</i> (2025), <i>Memo Review</i>, July 2026 (print)</p> 
